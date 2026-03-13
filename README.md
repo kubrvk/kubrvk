@@ -26,41 +26,39 @@ I bridge the gap between art and engineering: writing gameplay systems by day, s
 
 ---
 ## ◈ What I Do
-
-
 <table width="100%">
-<tr>
-<td valign="top" width="25%">
-<b>🎮 Game Dev</b><br><br>
-UE5 C++ · AI Systems<br>
-Combat · Multiplayer<br>
-Procedural Gen<br>
-PC · iOS · Android
+<tr><td valign="top" width="25%">
+<b>🎮 Game Development</b><br>
+<pre>UE5 C++ · Gameplay Systems
+AI & Boss Mechanics
+Combat · Multiplayer / Co-op
+Procedural Generation
+PC · iOS · Android </pre>
 </td>
 <td valign="top" width="25%">
-<b>🧊 3D &amp; Tech Art</b><br><br>
-ZBrush · Maya · Blender<br>
-Sculpt · Rig · Texture<br>
-Shaders · VFX<br>
-LOD · Real-time
+<b>🧊 3D & Technical Art</b><br>
+<pre>ZBrush · Maya · Blender
+Sculpting · Retopology · 
+PBR Texturing · Shaders
+VFX · LOD · Real-time 
+Rigging</pre>
 </td>
 <td valign="top" width="25%">
-<b>🌐 Web &amp; App</b><br><br>
-React · Node.js<br>
-Web · Mobile Apps<br>
-Python · LLM/AI<br>
-Automation
+<b>🌐 Web & App Dev</b><br>
+<pre>JavaScript ·React ·Node.js
+Web & Mobile Apps
+Python · LLM Automation
+AI Systems </pre>
 </td>
 <td valign="top" width="25%">
-<b>🎨 Design</b><br><br>
-Photoshop · Illustrator<br>
-After Effects<br>
-Branding · ArchViz<br>
-AutoCAD
+<b>🎨 Visual Design</b><br>
+<pre>Photoshop · Illustrator
+After Effects · Branding
+Promotional Content
+ArchViz · AutoCAD </pre>
 </td>
 </tr>
 </table>
-
 ---
 
 ## ◈ Shipped Games

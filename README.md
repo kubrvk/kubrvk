@@ -29,31 +29,31 @@ I bridge the gap between art and engineering: writing gameplay systems by day, s
 <table width="100%">
 <tr><td valign="top" width="25%">
 <b>🎮 Game Development</b><br>
-<pre>UE5 C++ · Gameplay Systems
+<pre>UE5 C++ ·GameplaySystems
 AI & Boss Mechanics
-Combat · Multiplayer / Co-op
+Combat · Multiplayer/Co-op
 Procedural Generation
 PC · iOS · Android </pre>
 </td>
 <td valign="top" width="25%">
 <b>🧊 3D & Technical Art</b><br>
-<pre>ZBrush · Maya · Blender
-Sculpting · Retopology · 
+<pre>ZBrush·Maya·Blender
+Sculpting · Retopology
 PBR Texturing · Shaders
 VFX · LOD · Real-time 
 Rigging</pre>
 </td>
 <td valign="top" width="25%">
 <b>🌐 Web & App Dev</b><br>
-<pre>JavaScript ·React ·Node.js
+<pre>JavaScript·React·Node.js
 Web & Mobile Apps
 Python · LLM Automation
 AI Systems </pre>
 </td>
 <td valign="top" width="25%">
 <b>🎨 Visual Design</b><br>
-<pre>Photoshop · Illustrator
-After Effects · Branding
+<pre>Photoshop·Illustrator
+After Effects·Branding
 Promotional Content
 ArchViz · AutoCAD </pre>
 </td>

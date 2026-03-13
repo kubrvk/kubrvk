@@ -17,14 +17,12 @@
 
 ## ◈ About Me
 
-> **Solo developer. Technical artist. Shipped games. Real systems.**
+> **Solo developer. Technical artist. Multiple shipped games. H undreds of projects delivered.**
 
 I'm a developer and 3D artist specializing in Unreal Engine C++, 3D modeling & technical art, and web development.<br>
 Working across game studios, freelance clients, and my own projects.
 
 Covering both engineering and art production end-to-end, from gameplay systems and technical pipelines to character art and environment design.<br>
-
-Multiple games shipped. Hundreds of projects delivered. Still building.
 
 ---
 
@@ -35,7 +33,6 @@ Multiple games shipped. Hundreds of projects delivered. Still building.
 <pre>UE5 C++ ·GameplaySystems
 AI & Boss Mechanics
 Combat · Multiplayer/Co-op
-Procedural Generation
 PC · iOS · Android </pre>
 </td>
 <td valign="top" width="25%">
@@ -43,8 +40,8 @@ PC · iOS · Android </pre>
 <pre>ZBrush·Maya·Blender
 Sculpting · Retopology
 PBR Texturing · Shaders
-VFX · LOD · Real-time 
-Rigging</pre>
+VFX · LOD · Rigging 
+</pre>
 </td>
 <td valign="top" width="25%">
 <b>🌐 Web & App Dev</b><br>
@@ -56,14 +53,13 @@ AI Systems </pre>
 <td valign="top" width="25%">
 <b>🎨 Visual Design</b><br>
 <pre>Photoshop·Illustrator
-After Effects·Branding
-Promotional Content
+After Effects·Video
+Promotional Design
 ArchViz · AutoCAD </pre>
 </td>
 </tr>
 </table>
 
----
 
 ## ◈ Shipped Games
 

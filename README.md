@@ -45,9 +45,9 @@ Rigging</pre>
 </td>
 <td valign="top" width="25%">
 <b>🌐 Web & App Dev</b><br>
-<pre>JavaScript·React·Node.js
+<pre>JS·React·Node.js
 Web & Mobile Apps
-Python · LLM Automation
+Python ·LLM Automation
 AI Systems </pre>
 </td>
 <td valign="top" width="25%">

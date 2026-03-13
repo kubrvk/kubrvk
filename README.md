@@ -2,7 +2,7 @@
   
 ### `Developer` · `3D Artist` · `Game Creator`
 
-*Building worlds from code and polygons — one system at a time.*
+*Bridging art and engineering — from gameplay systems to character modeling, shipped as a one-person team...*
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## ◈ About Me
 
-> **Solo developer. Technical artist. Multiple shipped games. H undreds of projects delivered.**
+> **Solo developer. Technical artist. Multiple shipped games. Hundreds of projects delivered.**
 
 I'm a developer and 3D artist specializing in Unreal Engine C++, 3D modeling & technical art, and web development.<br>
 Working across game studios, freelance clients, and my own projects.

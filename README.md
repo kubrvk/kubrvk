@@ -25,48 +25,38 @@ I bridge the gap between art and engineering: writing gameplay systems by day, s
 **5 complete games shipped solo.** Hundreds of projects delivered. Still building.
 
 ---
-
 ## ◈ What I Do
 
-<table>
+
+<table width="100%">
 <tr>
-<td valign="top" width="100%">
-
-**🎮 Game Development**
-```
-Unreal Engine C++ · Gameplay Systems
-AI & Boss Mechanics · Procedural Generation
-Combat Systems · Multiplayer / Co-op
-Steam & Epic Online Subsystems
-Cross-platform: PC · iOS · Android
-```
-
-**🌐 Web & App Development**
-```
-JavaScript · React · Node.js
-Web Apps · Mobile Apps
-LLM Automation · Python AI Systems
-```
-
+<td valign="top" width="25%">
+<b>🎮 Game Dev</b><br><br>
+UE5 C++ · AI Systems<br>
+Combat · Multiplayer<br>
+Procedural Gen<br>
+PC · iOS · Android
 </td>
-<td valign="top" width="100%">
-
-**🧊 3D Art & Technical Art**
-```
-ZBrush · Maya · Blender · Substance Painter
-Character Sculpting · Retopology · Rigging
-PBR Texturing · Shader Development
-Environment Design · VFX · LOD Optimization
-Real-time Rendering · 3D Print Prep
-```
-
-**🎨 Visual & Marketing Design**
-```
-Photoshop · Illustrator · After Effects
-Branding · Promotional Content
-Architectural Visualization · AutoCAD
-```
-
+<td valign="top" width="25%">
+<b>🧊 3D &amp; Tech Art</b><br><br>
+ZBrush · Maya · Blender<br>
+Sculpt · Rig · Texture<br>
+Shaders · VFX<br>
+LOD · Real-time
+</td>
+<td valign="top" width="25%">
+<b>🌐 Web &amp; App</b><br><br>
+React · Node.js<br>
+Web · Mobile Apps<br>
+Python · LLM/AI<br>
+Automation
+</td>
+<td valign="top" width="25%">
+<b>🎨 Design</b><br><br>
+Photoshop · Illustrator<br>
+After Effects<br>
+Branding · ArchViz<br>
+AutoCAD
 </td>
 </tr>
 </table>

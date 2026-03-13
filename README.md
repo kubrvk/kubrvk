@@ -1,24 +1,14 @@
-<div align="center">
-
-```
-██╗  ██╗██╗   ██╗██████╗ ██████╗ ██╗██╗  ██╗
-██║ ██╔╝██║   ██║██╔══██╗██╔══██╗██║██║ ██╔╝
-█████╔╝ ██║   ██║██████╔╝██████╔╝██║█████╔╝ 
-██╔═██╗ ██║   ██║██╔══██╗██╔══██╗██║██╔═██╗ 
-██║  ██╗╚██████╔╝██████╔╝██║  ██║██║██║  ██╗
-╚═╝  ╚═╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
-```
-
-### `Developer` · `3D Artist` · `Game Creator`
+<div align="center"> 
+  
+  ### `Developer` · `3D Artist` · `Game Creator`
 
 *Building worlds from code and polygons — one system at a time.*
 
 ---
 
-![Visitors](https://komarev.com/ghpvc/?username=kubrik&color=blueviolet&style=flat-square)
-[![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=flat-square&logo=artstation&logoColor=white)](https://www.artstation.com/kubrik)
-[![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://store.steampowered.com/search/?developer=Kubrik)
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white)](https://kubrik.itch.io)
+[![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=flat-square&logo=artstation&logoColor=white)](https://www.artstation.com/kubrik) 
+[![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://store.steampowered.com/search/?developer=Kubrik) 
+[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white)](https://kubrik.itch.io) 
 
 </div>
 
@@ -40,7 +30,7 @@ I bridge the gap between art and engineering: writing gameplay systems by day, s
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="100%">
 
 **🎮 Game Development**
 ```
@@ -59,7 +49,7 @@ LLM Automation · Python AI Systems
 ```
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="100%">
 
 **🧊 3D Art & Technical Art**
 ```
@@ -110,19 +100,6 @@ Architectural Visualization · AutoCAD
 
 </div>
 
----
-
-## ◈ GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kubrik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kubrik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=e2e8f0)
-
-</div>
-
----
 
 <div align="center">
 

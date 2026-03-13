@@ -1,13 +1,14 @@
 <div align="center"> 
   
-  ### `Developer` · `3D Artist` · `Game Creator`
+### `Developer` · `3D Artist` · `Game Creator`
 
 *Building worlds from code and polygons — one system at a time.*
 
 ---
 
 [![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=flat-square&logo=artstation&logoColor=white)](https://www.artstation.com/kubrik) 
-[![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://store.steampowered.com/search/?developer=Kubrik) 
+[![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://store.steampowered.com/search/?developer=Kubrick) 
+[![GooglePlay](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6320705170911123485) 
 [![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white)](https://kubrik.itch.io) 
 
 </div>
@@ -18,14 +19,16 @@
 
 > **Solo developer. Technical artist. Shipped games. Real systems.**
 
-I'm a developer and 3D artist with **9 years in web development**, **7 years in 3D modeling**, and **5 years of Unreal Engine C++** — working across game studios, freelance clients, and my own projects.
+I'm a developer and 3D artist specializing in Unreal Engine C++, 3D modeling & technical art, and web development.<br>
+Working across game studios, freelance clients, and my own projects.
 
-I bridge the gap between art and engineering: writing gameplay systems by day, sculpting characters by night, and shipping complete games as a one-person team.
+Covering both engineering and art production end-to-end, from gameplay systems and technical pipelines to character art and environment design.<br>
 
-**5 complete games shipped solo.** Hundreds of projects delivered. Still building.
+Multiple games shipped. Hundreds of projects delivered. Still building.
 
 ---
-## ◈ What I Do
+
+## ◈ Specialties
 <table width="100%">
 <tr><td valign="top" width="25%">
 <b>🎮 Game Development</b><br>
@@ -59,6 +62,7 @@ ArchViz · AutoCAD </pre>
 </td>
 </tr>
 </table>
+
 ---
 
 ## ◈ Shipped Games
@@ -94,7 +98,4 @@ ArchViz · AutoCAD </pre>
 *Available for contract, freelance & full-time work*
 
 **→ Game Dev · 3D Art · Web Apps · Technical Art ←**
-
-`Let's build something.`
-
 </div>

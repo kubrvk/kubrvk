@@ -2,7 +2,7 @@
   
 ### `Developer` · `3D Artist` · `Game Creator`
 
-*Bridging art and engineering — from gameplay systems to character modeling, shipped as a one-person team...*
+*Bridging art and coding — from gameplay systems to character modeling, shipped as a one-person team...*
 
 ---
 
@@ -17,9 +17,9 @@
 
 ## ◈ About Me
 
-> **Solo developer. Technical artist. Multiple shipped games. Hundreds of projects delivered.**
+> **Solo developer. Technical artist. Multiple shipped games. Hundred of projects delivered.**
 
-I'm a developer and 3D artist specializing in Unreal Engine C++, 3D modeling & technical art, and web development.<br>
+Game developer and 3D artist specializing in Unreal Engine C++, 3D modeling & technical art, and web development.<br>
 Working across game studios, freelance clients, and my own projects.
 
 Covering both engineering and art production end-to-end, from gameplay systems and technical pipelines to character art and environment design.<br>
@@ -70,7 +70,8 @@ ArchViz · AutoCAD </pre>
 | [**Olympus of the Heavens**](https://store.steampowered.com/app/3358020/Olympus_of_the_Heavens) | Isometric Co-op ARPG | Co-op Networking · Procedural Gen · Crafting |
 | [**Blood Garden**](https://kubrik.itch.io/bloodgarden) | Souls-like | Stamina Combat · Dodge/Parry · Enemy AI |
 | [**Royal Jump: Queen's Crown**](https://play.google.com/store/apps/details?id=com.Kubrick.RoyalJump) | Mobile Platformer | Touch Controls · Physics Movement · Mobile Optimization |
-
+| [**Real Cat Runner**](https://play.google.com/store/apps/details?id=com.Kubrick.RoyalJump) | Auto Runner  | Touch Controls · Procedural Gen · Mobile Optimization |
+| [**Monster Girl Wave**](https://play.google.com/store/apps/details?id=com.Kubrick.RoyalJump) | Wave Rush | Touch Controls · Endless Gamemode · Mobile Optimization |
 ---
 
 ## ◈ Tech Stack

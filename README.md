@@ -64,13 +64,13 @@ ArchViz · AutoCAD </pre>
 
 | Game | Genre | Highlights |
 |------|-------|------------|
-| [**TIME SOUL**](https://github.com/kubrvk/TimeSoul) | Action / Souls-like | Parkour · Grappling Hook · Air Combos · Custom Shaders |
-| [**U.N. Owen Was Her**](https://github.com/kubrvk/UNOwenWasHer) | Action Shooter / Horror | Boss AI · Bullet-Hell · Dynamic Lighting |
-| [**Olympus of the Heavens**](https://github.com/kubrvk/OlympusOfTheHeavens) | Isometric Co-op ARPG | Co-op Networking · Procedural Gen · Crafting |
+| [**TIME SOUL**](https://github.com/kubrvk/TimeSoul) | Action / Souls-like | Parkour · Grappling Hook · Air Combos · Climbing |
+| [**U.N. Owen Was Her**](https://github.com/kubrvk/UNOwenWasHer) | Action Shooter / Horror | Boss AI · Bullet-Hell · Atmospheric Horror |
+| [**Olympus of the Heavens**](https://github.com/kubrvk/OlympusOfTheHeavens) | Isometric Co-op ARPG | Co-op Networking · Skill Tree · Crafting |
 | [**Blood Garden**](https://github.com/kubrvk/BloodGarden) | Souls-like | Stamina Combat · Dodge/Parry · Enemy AI |
-| [**Royal Jump: Queen's Crown**](https://github.com/kubrvk/RoyalJumpQueensCrown) | Mobile Platformer | Touch Controls · Physics Movement · Mobile Optimization |
-| [**Real Cat Runner**](https://github.com/kubrvk/RealCatRunner) | Auto Runner  | Touch Controls · Procedural Gen · Mobile Optimization |
-| [**Monster Girl Wave**](https://github.com/kubrvk/MonsterGirlWave) | Wave Rush | Touch Controls · Endless Gamemode · Mobile Optimization |
+| [**Royal Jump: Queen's Crown**](https://github.com/kubrvk/RoyalJumpQueensCrown) | Mobile Platformer | Touch Controls · Precision Movement · Mobile Optimization |
+| [**Real Cat Runner**](https://github.com/kubrvk/RealCatRunner) | Auto Runner  | Endless Procedural Gen · Increasing Difficulty · Mobile Optimized |
+| [**Monster Girl Wave**](https://github.com/kubrvk/MonsterGirlWave) | Wave Rush | Endless Waves · Random Enemy Variety · Mobile Optimized |
 ---
 
 ## ◈ Tech Stack

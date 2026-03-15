@@ -60,18 +60,17 @@ ArchViz · AutoCAD </pre>
 </tr>
 </table>
 
-
 ## ◈ Shipped Games
 
 | Game | Genre | Highlights |
 |------|-------|------------|
-| [**TIME SOUL**](https://store.steampowered.com/app/2928270/TIME_SOUL) | Action / Souls-like | Parkour · Grappling Hook · Air Combos · Custom Shaders |
-| [**U.N. Owen Was Her**](https://store.steampowered.com/app/3420540/UN_Owen_Was_Her) | Action Shooter / Horror | Boss AI · Bullet-Hell · Dynamic Lighting |
-| [**Olympus of the Heavens**](https://store.steampowered.com/app/3358020/Olympus_of_the_Heavens) | Isometric Co-op ARPG | Co-op Networking · Procedural Gen · Crafting |
-| [**Blood Garden**](https://kubrik.itch.io/bloodgarden) | Souls-like | Stamina Combat · Dodge/Parry · Enemy AI |
-| [**Royal Jump: Queen's Crown**](https://play.google.com/store/apps/details?id=com.Kubrick.RoyalJump) | Mobile Platformer | Touch Controls · Physics Movement · Mobile Optimization |
-| [**Real Cat Runner**](https://play.google.com/store/apps/details?id=com.Kubrick.RoyalJump) | Auto Runner  | Touch Controls · Procedural Gen · Mobile Optimization |
-| [**Monster Girl Wave**](https://play.google.com/store/apps/details?id=com.Kubrick.RoyalJump) | Wave Rush | Touch Controls · Endless Gamemode · Mobile Optimization |
+| [**TIME SOUL**](https://github.com/kubrvk/TimeSoul) | Action / Souls-like | Parkour · Grappling Hook · Air Combos · Custom Shaders |
+| [**U.N. Owen Was Her**](https://github.com/kubrvk/UNOwenWasHer) | Action Shooter / Horror | Boss AI · Bullet-Hell · Dynamic Lighting |
+| [**Olympus of the Heavens**](https://github.com/kubrvk/OlympusOfTheHeavens) | Isometric Co-op ARPG | Co-op Networking · Procedural Gen · Crafting |
+| [**Blood Garden**](https://github.com/kubrvk/BloodGarden) | Souls-like | Stamina Combat · Dodge/Parry · Enemy AI |
+| [**Royal Jump: Queen's Crown**](https://github.com/kubrvk/RoyalJumpQueensCrown) | Mobile Platformer | Touch Controls · Physics Movement · Mobile Optimization |
+| [**Real Cat Runner**](https://github.com/kubrvk/RealCatRunner) | Auto Runner  | Touch Controls · Procedural Gen · Mobile Optimization |
+| [**Monster Girl Wave**](https://github.com/kubrvk/MonsterGirlWave) | Wave Rush | Touch Controls · Endless Gamemode · Mobile Optimization |
 ---
 
 ## ◈ Tech Stack
@@ -87,12 +86,8 @@ ArchViz · AutoCAD </pre>
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![ZBrush](https://img.shields.io/badge/ZBrush-CC1100?style=for-the-badge&logoColor=white)
 
-</div>
+</div><div align="center">
 
-
-<div align="center">
-
-*Available for contract, freelance & full-time work*
-
+*Available for contract, freelance & full-time work*<br>
 **→ Game Dev · 3D Art · Web Apps · Technical Art ←**
 </div>

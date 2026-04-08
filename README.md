@@ -2,8 +2,6 @@
   
 ### `Developer` · `3D Artist` · `Game Creator`
 
-*Bridging art and coding — from gameplay systems to character modeling, shipped as a one-person team...*
-
 ---
 
 [![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=flat-square&logo=artstation&logoColor=white)](https://www.artstation.com/kubrik) 

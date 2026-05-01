@@ -1,7 +1,8 @@
 <div align="center">  
-  ### `Developer` · `3D Artist` · `Game Creator`
+  ---
+### `Developer` · `3D Artist` · `Game Creator`
 
----
+
 
 [![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=flat-square&logo=artstation&logoColor=white)](https://www.artstation.com/kubrik) 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://store.steampowered.com/search/?developer=Kubrick) 

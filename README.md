@@ -101,7 +101,7 @@ TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.1 
 
 ---
 
-<img align="left" width="30%" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/7892565cfcc766ed30ac1692a887a7e3f544b703/library_header.jpg?t=1731513472"/>
+<img align="left" width="30%" height="160"  src="https://play-lh.googleusercontent.com/R5bjOx05taghdFkr_aLZe7-jUJKoeA-M8pBxaO9cel0SVa85qAXUxwLGNvJXNv8zFj1N4WpJ0YCxzs7SkSC78w=s256-rw"/>
 <h3><a href="https://github.com/kubrvk/RealCatRunner">Real Cat Runner</a> <a href="https://store.steampowered.com/search/?developer=Kubrick"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
@@ -114,7 +114,7 @@ TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.1 
 
 ---
 
-<img align="left" width="30%" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/7892565cfcc766ed30ac1692a887a7e3f544b703/library_header.jpg?t=1731513472"/>
+<img align="left" width="30%"  height="160" src="https://play-lh.googleusercontent.com/d19ChUL2wZ8QjpijqUrkcIMgTDVNdl-c623tRfDaTW7Jb9UmmCPJBTH0D-1v--T51kXDwPq_MX9iEoWD09f6Lw=s256-rw"/>
 <h3><a href="https://github.com/kubrvk/MonsterGirlWave">Monster Girl WaveL</a> <a href="https://store.steampowered.com/search/?developer=Kubrick"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 

@@ -1,8 +1,4 @@
-<div align="center">  
-  ---
-### `Developer` · `3D Artist` · `Game Creator`
-
-
+<div align="center">
 
 [![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=flat-square&logo=artstation&logoColor=white)](https://www.artstation.com/kubrik) 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://store.steampowered.com/search/?developer=Kubrick) 
@@ -13,7 +9,7 @@
 
 ---
 
-## ◈ About Me
+## ◈ About Me  ## `Developer` · `3D Artist` · `Game Creator`
 
 
 Game developer and 3D artist specializing in Unreal Engine C++, 3D modeling & technical art, and web development.<br>

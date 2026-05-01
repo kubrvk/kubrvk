@@ -59,7 +59,9 @@ TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.1 
 <p align="center">
 <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_5e5adf2391616e017a65df159088f682db3acefd.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_9c2181850a7147b47d3e10dfa693be97a084799b.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_5da280e17d293d889b79b6b18ec71fd02b549018.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_3e5a805e4134ec1816939b3d360962a3b9411569.1920x1080.jpg?t=1773568111" width="25%"/>
 </p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=2a2a2a&height=1" width="100%"/></p>
+
+---
+
 <img align="left" width="30%" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/7892565cfcc766ed30ac1692a887a7e3f544b703/library_header.jpg?t=1731513472"/>
 <h3><a href="https://github.com/kubrvk/TimeSoul">TIME SOUL</a> <a href="https://store.steampowered.com/search/?developer=Kubrick"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
 
@@ -70,7 +72,101 @@ TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.1 
 <p align="center">
 <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_5e5adf2391616e017a65df159088f682db3acefd.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_9c2181850a7147b47d3e10dfa693be97a084799b.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_5da280e17d293d889b79b6b18ec71fd02b549018.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_3e5a805e4134ec1816939b3d360962a3b9411569.1920x1080.jpg?t=1773568111" width="25%"/>
 </p>
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=2a2a2a&height=1" width="100%"/></p>
+
+---
+
+<img align="left" width="30%" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/7892565cfcc766ed30ac1692a887a7e3f544b703/library_header.jpg?t=1731513472"/>
+<h3><a href="https://github.com/kubrvk/TimeSoul">TIME SOUL</a> <a href="https://store.steampowered.com/search/?developer=Kubrick"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
+
+![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
+<br>
+TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.1 using C++. The game features a generative world structure, a real-time countdown resource system(timeas health), multi-layered parkour movement, and a hybrid class framework.
+<br clear="left"/>
+<p align="center">
+<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_5e5adf2391616e017a65df159088f682db3acefd.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_9c2181850a7147b47d3e10dfa693be97a084799b.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_5da280e17d293d889b79b6b18ec71fd02b549018.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_3e5a805e4134ec1816939b3d360962a3b9411569.1920x1080.jpg?t=1773568111" width="25%"/>
+</p>
+
+---
+
+<img align="left" width="30%" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/7892565cfcc766ed30ac1692a887a7e3f544b703/library_header.jpg?t=1731513472"/>
+<h3><a href="https://github.com/kubrvk/TimeSoul">TIME SOUL</a> <a href="https://store.steampowered.com/search/?developer=Kubrick"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
+
+![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
+<br>
+TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.1 using C++. The game features a generative world structure, a real-time countdown resource system(timeas health), multi-layered parkour movement, and a hybrid class framework.
+<br clear="left"/>
+<p align="center">
+<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_5e5adf2391616e017a65df159088f682db3acefd.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_9c2181850a7147b47d3e10dfa693be97a084799b.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_5da280e17d293d889b79b6b18ec71fd02b549018.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_3e5a805e4134ec1816939b3d360962a3b9411569.1920x1080.jpg?t=1773568111" width="25%"/>
+</p>
+
+---
+
+<img align="left" width="30%" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/7892565cfcc766ed30ac1692a887a7e3f544b703/library_header.jpg?t=1731513472"/>
+<h3><a href="https://github.com/kubrvk/TimeSoul">TIME SOUL</a> <a href="https://store.steampowered.com/search/?developer=Kubrick"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
+
+![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
+<br>
+TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.1 using C++. The game features a generative world structure, a real-time countdown resource system(timeas health), multi-layered parkour movement, and a hybrid class framework.
+<br clear="left"/>
+<p align="center">
+<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_5e5adf2391616e017a65df159088f682db3acefd.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_9c2181850a7147b47d3e10dfa693be97a084799b.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_5da280e17d293d889b79b6b18ec71fd02b549018.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_3e5a805e4134ec1816939b3d360962a3b9411569.1920x1080.jpg?t=1773568111" width="25%"/>
+</p>
+
+---
+
+<img align="left" width="30%" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/7892565cfcc766ed30ac1692a887a7e3f544b703/library_header.jpg?t=1731513472"/>
+<h3><a href="https://github.com/kubrvk/TimeSoul">TIME SOUL</a> <a href="https://store.steampowered.com/search/?developer=Kubrick"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
+
+![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
+<br>
+TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.1 using C++. The game features a generative world structure, a real-time countdown resource system(timeas health), multi-layered parkour movement, and a hybrid class framework.
+<br clear="left"/>
+<p align="center">
+<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_5e5adf2391616e017a65df159088f682db3acefd.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_9c2181850a7147b47d3e10dfa693be97a084799b.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_5da280e17d293d889b79b6b18ec71fd02b549018.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_3e5a805e4134ec1816939b3d360962a3b9411569.1920x1080.jpg?t=1773568111" width="25%"/>
+</p>
+
+---
+
+<img align="left" width="30%" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/7892565cfcc766ed30ac1692a887a7e3f544b703/library_header.jpg?t=1731513472"/>
+<h3><a href="https://github.com/kubrvk/TimeSoul">TIME SOUL</a> <a href="https://store.steampowered.com/search/?developer=Kubrick"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
+
+![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
+<br>
+TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.1 using C++. The game features a generative world structure, a real-time countdown resource system(timeas health), multi-layered parkour movement, and a hybrid class framework.
+<br clear="left"/>
+<p align="center">
+<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_5e5adf2391616e017a65df159088f682db3acefd.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_9c2181850a7147b47d3e10dfa693be97a084799b.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_5da280e17d293d889b79b6b18ec71fd02b549018.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_3e5a805e4134ec1816939b3d360962a3b9411569.1920x1080.jpg?t=1773568111" width="25%"/>
+</p>
+
+---
+
+<img align="left" width="30%" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/7892565cfcc766ed30ac1692a887a7e3f544b703/library_header.jpg?t=1731513472"/>
+<h3><a href="https://github.com/kubrvk/TimeSoul">TIME SOUL</a> <a href="https://store.steampowered.com/search/?developer=Kubrick"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
+
+![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
+<br>
+TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.1 using C++. The game features a generative world structure, a real-time countdown resource system(timeas health), multi-layered parkour movement, and a hybrid class framework.
+<br clear="left"/>
+<p align="center">
+<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_5e5adf2391616e017a65df159088f682db3acefd.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_9c2181850a7147b47d3e10dfa693be97a084799b.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_5da280e17d293d889b79b6b18ec71fd02b549018.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_3e5a805e4134ec1816939b3d360962a3b9411569.1920x1080.jpg?t=1773568111" width="25%"/>
+</p>
+
+---
+
+<img align="left" width="30%" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/7892565cfcc766ed30ac1692a887a7e3f544b703/library_header.jpg?t=1731513472"/>
+<h3><a href="https://github.com/kubrvk/TimeSoul">TIME SOUL</a> <a href="https://store.steampowered.com/search/?developer=Kubrick"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
+
+![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
+<br>
+TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.1 using C++. The game features a generative world structure, a real-time countdown resource system(timeas health), multi-layered parkour movement, and a hybrid class framework.
+<br clear="left"/>
+<p align="center">
+<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_5e5adf2391616e017a65df159088f682db3acefd.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_9c2181850a7147b47d3e10dfa693be97a084799b.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_5da280e17d293d889b79b6b18ec71fd02b549018.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_3e5a805e4134ec1816939b3d360962a3b9411569.1920x1080.jpg?t=1773568111" width="25%"/>
+</p>
+
+
+
+
 
 | Game | Genre | Highlights |
 |------|-------|------------|

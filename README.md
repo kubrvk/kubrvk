@@ -15,7 +15,7 @@
 
 ## ◈ About Me
 
-> **Solo developer. Technical artist. **
+>  Technical artist.
 
 Game developer and 3D artist specializing in Unreal Engine C++, 3D modeling & technical art, and web development.<br>
 Working across game studios, freelance clients, and my own projects.

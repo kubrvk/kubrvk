@@ -9,8 +9,8 @@
 
 ---
 
-## ◈ About Me  ## `Developer` · `3D Artist` · `Game Creator`
-
+## ◈ About Me
+ > `Unreal Engine Developer` · `Technical Artist` · `Game Creator`
 
 Game developer and 3D artist specializing in Unreal Engine C++, 3D modeling & technical art, and web development.<br>
 Working across game studios, freelance clients, and my own projects.
@@ -23,14 +23,14 @@ Covering both engineering and art production end-to-end, from gameplay systems a
 <table width="100%">
 <tr><td valign="top" width="25%">
 <b>🎮 Game Development</b><br>
-<pre>UE5 C++ ·GameplaySystems
+<pre>UE5 C++ · GameplaySystems
 AI & Boss Mechanics
 Combat · Multiplayer/Co-op
 PC · iOS · Android </pre>
 </td>
 <td valign="top" width="25%">
 <b>🧊 3D & Technical Art</b><br>
-<pre>ZBrush·Maya·Blender
+<pre>ZBrush · Maya · Blender
 Sculpting · Retopology
 PBR Texturing · Shaders
 VFX · LOD · Rigging 

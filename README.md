@@ -128,7 +128,7 @@ TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.1 
 ---
 
 <img align="left" width="30%" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/7892565cfcc766ed30ac1692a887a7e3f544b703/library_header.jpg?t=1731513472"/>
-<h3><a href="https://github.com/kubrvk/TimeSoul">TIME SOUL</a> <a href="https://store.steampowered.com/search/?developer=Kubrick"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/TimeSoul">Blood Garden</a> <a href="https://store.steampowered.com/search/?developer=Kubrick"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
@@ -141,7 +141,7 @@ TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.1 
 ---
 
 <img align="left" width="30%" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/7892565cfcc766ed30ac1692a887a7e3f544b703/library_header.jpg?t=1731513472"/>
-<h3><a href="https://github.com/kubrvk/TimeSoul">TIME SOUL</a> <a href="https://store.steampowered.com/search/?developer=Kubrick"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/TimeSoul">Skysmith Dragons</a> <a href="https://store.steampowered.com/search/?developer=Kubrick"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
@@ -154,7 +154,7 @@ TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.1 
 ---
 
 <img align="left" width="30%" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/7892565cfcc766ed30ac1692a887a7e3f544b703/library_header.jpg?t=1731513472"/>
-<h3><a href="https://github.com/kubrvk/TimeSoul">TIME SOUL</a> <a href="https://store.steampowered.com/search/?developer=Kubrick"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/TimeSoul">Nerf This!</a><a href="https://kubrik.itch.io/nerfthis"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>

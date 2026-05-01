@@ -68,6 +68,9 @@ ArchViz · AutoCAD </pre>
 
 <p align="center">
   <img src="https://camo.githubusercontent.com/08853535d41f3e996eabd59455f93e5f6654c94fb446a213448b029aa9bb73a5/68747470733a2f2f7368617265642e616b616d61692e737465616d7374617469632e636f6d2f73746f72655f6974656d5f6173736574732f737465616d2f617070732f323932383237302f73735f356535616466323339313631366530313761363564663135393038386636383264623361636566642e383030783630302e6a7067" width="300"/>
+ test <br>
+ asdasd
+ asdasd
 </p>
 
 <p align="center">
@@ -75,6 +78,97 @@ ArchViz · AutoCAD </pre>
   <img src="https://camo.githubusercontent.com/08853535d41f3e996eabd59455f93e5f6654c94fb446a213448b029aa9bb73a5/68747470733a2f2f7368617265642e616b616d61692e737465616d7374617469632e636f6d2f73746f72655f6974656d5f6173736574732f737465616d2f617070732f323932383237302f73735f356535616466323339313631366530313761363564663135393038386636383264623361636566642e383030783630302e6a7067" width="32%"/>
   <img src="https://camo.githubusercontent.com/08853535d41f3e996eabd59455f93e5f6654c94fb446a213448b029aa9bb73a5/68747470733a2f2f7368617265642e616b616d61692e737465616d7374617469632e636f6d2f73746f72655f6974656d5f6173736574732f737465616d2f617070732f323932383237302f73735f356535616466323339313631366530313761363564663135393038386636383264623361636566642e383030783630302e6a7067" width="32%"/>
 </p>
+
+
+# 🕹️ Featured Projects
+
+<!-- PROJE BAŞLANGIÇ: TIME SOUL -->
+<div align="center">
+  <a href="https://github.com/kubrvk/TimeSoul">
+    <img src="https://camo.githubusercontent.com/08853535d41f3e996eabd59455f93e5f6654c94fb446a213448b029aa9bb73a5/68747470733a2f2f7368617265642e616b616d61692e737465616d7374617469632e636f6d2f73746f72655f6974656d5f6173736574732f737465616d2f617070732f323932383237302f73735f356535616466323339313631366530313761363564663135393038386636383264623361636566642e383030783630302e6a7067" width="300" alt="Time Soul Logo">
+  </a>
+  
+  ### [TIME SOUL](https://github.com/kubrvk/TimeSoul)
+  **Action / Souls-like**
+  
+  ![C++](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)
+  ![Status](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badge)
+
+  <p>
+    Parkour · Grappling Hook · Air Combos · Climbing
+  </p>
+
+  <a href="https://github.com/kubrvk/TimeSoul">
+    <img src="https://via.placeholder.com/800x400.png?text=Game+Screenshot+Or+High-Res+Render" width="100%" style="border-radius:10px;">
+  </a>
+</div>
+
+---
+
+<!-- PROJE BAŞLANGIÇ: U.N. OWEN WAS HER -->
+<div align="center">
+  <a href="https://github.com/kubrvk/UNOwenWasHer">
+    <img src="https://via.placeholder.com/150x150.png?text=Logo" width="150" alt="U.N. Owen Was Her Logo">
+  </a>
+
+  ### [U.N. Owen Was Her](https://github.com/kubrvk/UNOwenWasHer)
+  **Action Shooter / Horror**
+
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+  ![AI](https://img.shields.io/badge/Tech-Boss_AI-red?style=flat-square)
+
+  <p>
+    Boss AI · Bullet-Hell · Atmospheric Horror
+  </p>
+
+  <a href="https://github.com/kubrvk/UNOwenWasHer">
+    <img src="https://via.placeholder.com/800x350.png?text=Atmospheric+Horror+Screenshot" width="100%" style="border-radius:10px;">
+  </a>
+</div>
+
+
+
+<table>
+  <tr>
+    <td width="40%">
+      <img src="https://camo.githubusercontent.com/08853535d41f3e996eabd59455f93e5f6654c94fb446a213448b029aa9bb73a5/68747470733a2f2f7368617265642e616b616d61692e737465616d7374617469632e636f6d2f73746f72655f6974656d5f6173736574732f737465616d2f617070732f323932383237302f73735f356535616466323339313631366530313761363564663135393038386636383264623361636566642e383030783630302e6a7067" width="100%"/>
+    </td>
+    <td valign="top">
+      <h3><a href="...">TIME SOUL</a></h3>
+      <img src="https://img.shields.io/badge/Action-Souls--like-red?style=flat-square"/>
+      <br/><br/>
+      Parkour, grappling hook, air combos ve climbing mekanikleriyle 
+      souls-like aksiyon oyunu.
+    </td>
+  </tr>
+</table>
+
+
+<h2>🎮 Games</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kubrvk/TimeSoul">⚔️ TIME SOUL</a></h3>
+      <p>
+        <img src="https://camo.githubusercontent.com/08853535d41f3e996eabd59455f93e5f6654c94fb446a213448b029aa9bb73a5/68747470733a2f2f7368617265642e616b616d61692e737465616d7374617469632e636f6d2f73746f72655f6974656d5f6173736574732f737465616d2f617070732f323932383237302f73735f356535616466323339313631366530313761363564663135393038386636383264623361636566642e383030783630302e6a7067"/>
+      </p>
+      <img src="screenshots/timesoul.gif" width="100%" alt="TIME SOUL"/>
+      <p>Parkour · Grappling Hook · Air Combos · Climbing</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/kubrvk/UNOwenWasHer">👁️ U.N. Owen Was Her</a></h3>
+      <p>
+        <img src="https://camo.githubusercontent.com/08853535d41f3e996eabd59455f93e5f6654c94fb446a213448b029aa9bb73a5/68747470733a2f2f7368617265642e616b616d61692e737465616d7374617469632e636f6d2f73746f72655f6974656d5f6173736574732f737465616d2f617070732f323932383237302f73735f356535616466323339313631366530313761363564663135393038386636383264623361636566642e383030783630302e6a7067"/>
+      </p>
+      <img src="screenshots/unowenwasher.gif" width="100%" alt="U.N. Owen Was Her"/>
+      <p>Boss AI · Bullet-Hell · Atmospheric Horror</p>
+    </td>
+  </tr>
+  <!-- diğer oyunlar... -->
+</table>
+
+
 
 ## ◈ Tech Stack
 

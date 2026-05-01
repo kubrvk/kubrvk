@@ -1,5 +1,5 @@
 <div align="center">  
-### `Developer` · `3D Artist` · `Game Creator`
+  ### `Developer` · `3D Artist` · `Game Creator`
 
 ---
 

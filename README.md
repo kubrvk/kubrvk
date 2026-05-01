@@ -153,15 +153,15 @@ TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.1 
 
 ---
 
-<img align="left" width="30%" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/7892565cfcc766ed30ac1692a887a7e3f544b703/library_header.jpg?t=1731513472"/>
+<img align="left" width="30%"  height="160" src="https://img.itch.zone/aW1nLzI2OTk2ODcwLnBuZw==/315x250%23c/FyBPmz.png"/>
 <h3><a href="https://github.com/kubrvk/TimeSoul">Nerf This!</a><a href="https://kubrik.itch.io/nerfthis"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
 
-![](https://img.shields.io/badge/rogue-like-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
+![](https://img.shields.io/badge/rogue--like-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
-TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.1 using C++. The game features a generative world structure, a real-time countdown resource system(timeas health), multi-layered parkour movement, and a hybrid class framework.
+Nerf This! is an early development Unreal Engine project that blends real-time third-person combat with deckbuilding strategy in a roguelike dungeon format.
 <br clear="left"/>
 <p align="center">
-<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_5e5adf2391616e017a65df159088f682db3acefd.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_9c2181850a7147b47d3e10dfa693be97a084799b.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_5da280e17d293d889b79b6b18ec71fd02b549018.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_3e5a805e4134ec1816939b3d360962a3b9411569.1920x1080.jpg?t=1773568111" width="25%"/>
+<img src="https://img.itch.zone/aW1hZ2UvNDUyOTY0Mi8yNjk5NzgzOC5wbmc=/original/is5eSH.png" width="25%"/><img src="https://img.itch.zone/aW1hZ2UvNDUyOTY0Mi8yNjk5NzgzNC5wbmc=/original/4Vruk%2B.png" width="25%"/><img src="https://img.itch.zone/aW1hZ2UvNDUyOTY0Mi8yNjk5NzgzNS5wbmc=/original/%2F%2FgIpQ.png" width="25%"/><img src="https://img.itch.zone/aW1hZ2UvNDUyOTY0Mi8yNjk5NzgzNi5wbmc=/original/G25Zqv.png" width="25%"/>
 </p>
 
 

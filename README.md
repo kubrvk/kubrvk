@@ -2,7 +2,7 @@
 [![ArtStation](https://img.shields.io/badge/ArtStation-13AFF0?style=flat-square&logo=artstation&logoColor=white)](https://www.artstation.com/kubrik) 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://store.steampowered.com/search/?developer=Kubrick) 
 [![GooglePlay](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6320705170911123485) 
-[![Itch.io](https://img.shields.io/badge/Itch.io-FA5C5C?style=flat-square&logo=itch.io&logoColor=white)](https://kubrik.itch.io) 
+[![Itch.io](https://img.shields.io/badge/Itch.io-851d10?style=flat-square&logo=itch.io&logoColor=white)](https://kubrik.itch.io) 
 
  > `Unreal Engine Developer` · `Technical Artist` · `Game Creator`
 

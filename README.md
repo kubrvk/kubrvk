@@ -101,7 +101,7 @@ Royal Jump: Queen's Crown is a precision-based mobile platformer built in Unreal
 
 ---
 
-<img align="left" width="30%" height="160"  src="https://play-lh.googleusercontent.com/R5bjOx05taghdFkr_aLZe7-jUJKoeA-M8pBxaO9cel0SVa85qAXUxwLGNvJXNv8zFj1N4WpJ0YCxzs7SkSC78w=s256-rw"/>
+<img align="left" width="30%" src="https://github.com/kubrvk/RealCatRunner/blob/main/Content/RealCatRunner/images/catbanner.jpg"/>
 <h3><a href="https://github.com/kubrvk/RealCatRunner">5-) Real Cat Runner</a> <a href="https://play.google.com/store/apps/details?id=com.Kubrick.RealCatRunner"><img src="https://img.shields.io/badge/Google_Play:-com.Kubrick.RealCatRunner-000000?style=flat-square&logo=google-play&logoColor=white&labelColor=000000" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Mobile-a13636?style=) ![](https://img.shields.io/badge/Platformer-a17736?style=) ![](https://img.shields.io/badge/Touch--Controls-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.3-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 

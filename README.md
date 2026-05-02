@@ -141,7 +141,7 @@ Action souls-like set in a cursed garden where corrupted flora and divine remnan
 ---
 
 <img align="left" width="30%" height="160" src="https://img.itch.zone/aW1nLzI3MDAxMDYwLmpwZw==/315x250%23c/C014lQ.jpg"/>
-<h3><a href="https://github.com/kubrvk/TimeSoul">8-) Skysmith Dragons</a> <a href="https://kubrik.itch.io/skysmithdragons"> <img src="https://img.shields.io/badge/itch.io: https://kubrik.itch.io/skysmithdragons-000000?style=flat-square&logo=itch.io&logoColor=white&labelColor=000000" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/skysmithdragons">8-) Skysmith Dragons</a> <a href="https://kubrik.itch.io/skysmithdragons"> <img src="https://img.shields.io/badge/itch.io: https://kubrik.itch.io/skysmithdragons-000000?style=flat-square&logo=itch.io&logoColor=white&labelColor=000000" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Survival-44933c?style=) ![](https://img.shields.io/badge/Sandbox-ba8810?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.7-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![Status](https://img.shields.io/badge/Status-Early_Development-851d10?style=for-the-badges)
 <br>
@@ -154,7 +154,7 @@ Sandbox survival experience in Unreal Engine focused on dragon taming, crafting,
 ---
 
 <img align="left" width="30%"  height="160" src="https://img.itch.zone/aW1nLzI2OTk2ODcwLnBuZw==/315x250%23c/FyBPmz.png"/>
-<h3><a href="https://github.com/kubrvk/TimeSoul">9-) Nerf This!</a><a href="https://kubrik.itch.io/nerfthis"> <img src="https://img.shields.io/badge/itch.io: https://kubrik.itch.io/nerfthis-000000?style=flat-square&logo=itch.io&logoColor=white&labelColor=000000" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/nerfthis">9-) Nerf This!</a><a href="https://kubrik.itch.io/nerfthis"> <img src="https://img.shields.io/badge/itch.io: https://kubrik.itch.io/nerfthis-000000?style=flat-square&logo=itch.io&logoColor=white&labelColor=000000" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Rogue--like-a00d7c?style=) ![](https://img.shields.io/badge/Deck--Builder-0da083?style=) ![](https://img.shields.io/badge/Crafting-849d64?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.7-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![Status](https://img.shields.io/badge/Status-Early_Development-851d10?style=for-the-badges)
 <br>

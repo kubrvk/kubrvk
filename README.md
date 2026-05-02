@@ -148,7 +148,7 @@ TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.4 
 TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.7 using C++. The game features a generative world structure, a real-time countdown resource system(timeas health), multi-layered parkour movement, and a hybrid class framework.
 <br clear="left"/>
 <p align="center">
-<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_5e5adf2391616e017a65df159088f682db3acefd.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_9c2181850a7147b47d3e10dfa693be97a084799b.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_5da280e17d293d889b79b6b18ec71fd02b549018.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_3e5a805e4134ec1816939b3d360962a3b9411569.1920x1080.jpg?t=1773568111" width="25%"/>
+<img src="https://img.itch.zone/aW1hZ2UvNDUyOTk1OS8yNzAwMDc3My5wbmc=/original/Bibxoc.png" width="25%"/><img src="https://img.itch.zone/aW1hZ2UvNDUyOTk1OS8yNzAwMDc3NC5wbmc=/original/EsMtCw.png" width="25%"/><img src="https://img.itch.zone/aW1hZ2UvNDUyOTk1OS8yNzAwMDc2OS5wbmc=/original/aBEyqg.png" width="25%"/><img src="https://img.itch.zone/aW1hZ2UvNDUyOTk1OS8yNzAwMDc3MS5wbmc=/original/jhawhF.png" width="25%"/>
 </p>
 
 ---

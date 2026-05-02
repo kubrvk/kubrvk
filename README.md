@@ -128,7 +128,7 @@ Monster Girl Wave is a fast-paced top-down action survival game built in Unreal 
 ---
 
 <img align="left" width="30%" height="160" src="https://img.itch.zone/aW1nLzI1NTE5NjYwLmpwZw==/315x250%23c/cu2TBY.jpg"/>
-<h3><a href="https://github.com/kubrvk/BloodGarden">7-) Blood Garden</a> <a href="https://store.steampowered.com/search/?developer=Kubrick"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/BloodGarden">7-) Blood Garden</a> <a href="https://store.steampowered.com/search/?developer=Kubrick"> <img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.4-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
@@ -142,7 +142,7 @@ The combat framework is built around a stamina economy that governs attacks, dod
 ---
 
 <img align="left" width="30%" height="160" src="https://img.itch.zone/aW1nLzI3MDAxMDYwLmpwZw==/315x250%23c/C014lQ.jpg"/>
-<h3><a href="https://github.com/kubrvk/TimeSoul">8-) Skysmith Dragons</a> <a href="https://store.steampowered.com/search/?developer=Kubrick"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/TimeSoul">8-) Skysmith Dragons</a> <a href="https://store.steampowered.com/search/?developer=Kubrick"> <img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.7-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
@@ -157,7 +157,7 @@ Take to the skies with fully controllable dragons and build your own flying airs
 ---
 
 <img align="left" width="30%"  height="160" src="https://img.itch.zone/aW1nLzI2OTk2ODcwLnBuZw==/315x250%23c/FyBPmz.png"/>
-<h3><a href="https://github.com/kubrvk/TimeSoul">9-) Nerf This!</a><a href="https://kubrik.itch.io/nerfthis"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/TimeSoul">9-) Nerf This!</a><a href="https://kubrik.itch.io/nerfthis"> <img src="https://img.shields.io/badge/itch.io: https://kubrik.itch.io/nerfthis-000000?style=flat-square&logo=itch.io&logoColor=white&labelColor=000000" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/rogue--like-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.7-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>

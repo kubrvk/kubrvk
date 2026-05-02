@@ -91,7 +91,7 @@ Olympus of the Heavens is an isometric co-op action RPG built in Unreal Engine 5
 <img align="left" width="30%" height="160" src="https://play-lh.googleusercontent.com/jMaCfXaF4orA19-pa4tbOQZKW0USkhV8EvBGGhAeVRN7Nt51tg6CUnUaOyufFrs52-RM1vQ3EWvhVxLjcr6p=s256-rw"/>
 <h3><a href="https://github.com/kubrvk/RoyalJumpQueensCrown">Royal Jump: Queen's Crown</a> <a href="https://store.steampowered.com/search/?developer=Kubrick"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
 
-![](https://img.shields.io/badge/Mobile-a13636?style=) ![](https://img.shields.io/badge/Platformer--a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
+![](https://img.shields.io/badge/Mobile-a13636?style=) ![](https://img.shields.io/badge/Platformer--a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.7-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
 Royal Jump: Queen's Crown is a precision-based mobile platformer built in Unreal Engine 5.7 using C++, targeting Android. The player controls the Queen through vertically-ascending levels where momentum, timing, and clean input execution determine success. The game is built around a physics-driven movement model with touch-optimized controls — all input handling, movement feel, and jump behavior are tuned specifically for mobile touch input latency and screen real estate constraints.
 <br clear="left"/>
@@ -119,10 +119,10 @@ Real Cat Runner is an endless auto-runner built in Unreal Engine 5.7 using C++, 
 
 ![](https://img.shields.io/badge/Mobile-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
-TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.1 using C++. The game features a generative world structure, a real-time countdown resource system(timeas health), multi-layered parkour movement, and a hybrid class framework.
+TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.7 using C++. The game features a generative world structure, a real-time countdown resource system(timeas health), multi-layered parkour movement, and a hybrid class framework.
 <br clear="left"/>
 <p align="center">
-<img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_5e5adf2391616e017a65df159088f682db3acefd.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_9c2181850a7147b47d3e10dfa693be97a084799b.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_5da280e17d293d889b79b6b18ec71fd02b549018.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_3e5a805e4134ec1816939b3d360962a3b9411569.1920x1080.jpg?t=1773568111" width="25%"/>
+<img src="https://play-lh.googleusercontent.com/xdiJa3CxPyRcLTwJH_Yk7udN9ikT4dnzqw3QLMDNmiR0wcnC-OAE82kwTWIYJahTWT6O8oOazvLDV9KKvJyf=w2560-h1440-rw" width="25%"/><img src="https://play-lh.googleusercontent.com/U1ThnF9l_Gqo0lRM-ENmZaJdQ75htxTguHCx9c2Y14hWfJL8FB7cbODkI05Yz4QOWiaoxcwiFX9V2t1TGaBQjv8=w2560-h1440-rw" width="25%"/><img src="https://play-lh.googleusercontent.com/p3HPLfIhEkOwdaPrsXzIMJUc0Hb4T56YqdQ1_dALwkPIB_AlSGqq8vUsMUd7vRtbCNyFn4jjx7XXrEcmS8GPEg=w2560-h1440-rw" width="25%"/><img src="https://play-lh.googleusercontent.com/N_SunhmeRk1UUn8IekV3LC0n9UFlHZI026ZNZbrzdPoaaAbBIPAzDj9XQpFu0AY8pja5jQIGiYDigh0l3UZ-cA=w2560-h1440-rw" width="25%"/>
 </p>
 
 ---
@@ -130,9 +130,9 @@ TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.1 
 <img align="left" width="30%" height="160" src="https://img.itch.zone/aW1nLzI1NTE5NjYwLmpwZw==/315x250%23c/cu2TBY.jpg"/>
 <h3><a href="https://github.com/kubrvk/BloodGarden">Blood Garden</a> <a href="https://store.steampowered.com/search/?developer=Kubrick"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
 
-![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
+![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.4-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
-TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.1 using C++. The game features a generative world structure, a real-time countdown resource system(timeas health), multi-layered parkour movement, and a hybrid class framework.
+TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.4 using C++. The game features a generative world structure, a real-time countdown resource system(timeas health), multi-layered parkour movement, and a hybrid class framework.
 <br clear="left"/>
 <p align="center">
 <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_5e5adf2391616e017a65df159088f682db3acefd.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_9c2181850a7147b47d3e10dfa693be97a084799b.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_5da280e17d293d889b79b6b18ec71fd02b549018.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_3e5a805e4134ec1816939b3d360962a3b9411569.1920x1080.jpg?t=1773568111" width="25%"/>
@@ -143,9 +143,9 @@ TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.1 
 <img align="left" width="30%" height="160" src="https://img.itch.zone/aW1nLzI3MDAxMDYwLmpwZw==/315x250%23c/C014lQ.jpg"/>
 <h3><a href="https://github.com/kubrvk/TimeSoul">Skysmith Dragons</a> <a href="https://store.steampowered.com/search/?developer=Kubrick"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
 
-![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
+![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.7-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
-TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.1 using C++. The game features a generative world structure, a real-time countdown resource system(timeas health), multi-layered parkour movement, and a hybrid class framework.
+TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.7 using C++. The game features a generative world structure, a real-time countdown resource system(timeas health), multi-layered parkour movement, and a hybrid class framework.
 <br clear="left"/>
 <p align="center">
 <img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_5e5adf2391616e017a65df159088f682db3acefd.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_9c2181850a7147b47d3e10dfa693be97a084799b.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_5da280e17d293d889b79b6b18ec71fd02b549018.800x600.jpg" width="25%"/><img src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/ss_3e5a805e4134ec1816939b3d360962a3b9411569.1920x1080.jpg?t=1773568111" width="25%"/>
@@ -156,7 +156,7 @@ TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.1 
 <img align="left" width="30%"  height="160" src="https://img.itch.zone/aW1nLzI2OTk2ODcwLnBuZw==/315x250%23c/FyBPmz.png"/>
 <h3><a href="https://github.com/kubrvk/TimeSoul">Nerf This!</a><a href="https://kubrik.itch.io/nerfthis"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
 
-![](https://img.shields.io/badge/rogue--like-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
+![](https://img.shields.io/badge/rogue--like-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.7-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
 Nerf This! is an early development Unreal Engine project that blends real-time third-person combat with deckbuilding strategy in a roguelike dungeon format.
 <br clear="left"/>

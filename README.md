@@ -93,7 +93,7 @@ U.N. Owen Was Her is a third-person atmospheric horror game built in Unreal Engi
 ---
 
 <img align="left" width="30%" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3358020/header.jpg?t=1739608365"/>
-<h3><a href="https://github.com/kubrvk/OlympusOfTheHeavens">Olympus of the Heavens</a> <a href="https://store.steampowered.com/app/3358020/Olympus_of_the_Heavens"><img src="https://img.shields.io/badge/Steam: https://store.steampowered.com/app/Olympus_of_the_Heavens-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/OlympusOfTheHeavens">Olympus of the Heavens</a> <a href="https://store.steampowered.com/app/3358020/Olympus_of_the_Heavens"><img src="https://img.shields.io/badge/Steam: https://store.steam.com/app/Olympus_of_the_Heavens-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Isometric-a13636?style=) ![](https://img.shields.io/badge/Co--op-a17736?style=) ![](https://img.shields.io/badge/ARPG-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.3-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>

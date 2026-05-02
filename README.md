@@ -145,9 +145,7 @@ Action souls-like set in a cursed garden where corrupted flora and divine remnan
 
 ![](https://img.shields.io/badge/Survival-44933c?style=) ![](https://img.shields.io/badge/Sandbox-ba8810?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.7-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![Status](https://img.shields.io/badge/Status-Early_Development-851d10?style=for-the-badges)
 <br>
-Skysmith Dragons is a Unreal Engine sandbox survival experience focused on dragon taming, crafting, and aerial fly exploration.
-In a world of fractured lands and floating islands, dragons are tools, and power. Capture wild dragons, raise them, and shape them into companions that fight, gather, carry, and fly with you.
-Take to the skies with fully controllable dragons and build your own flying airship base, where your dragons actively contribute to crafting, production, and survival systems.
+Sandbox survival experience in Unreal Engine focused on dragon taming, crafting, and aerial exploration. Across fractured lands and floating islands, capture and raise wild dragons into companions that fight, gather, and fly alongside you. Take to the skies, build your own airship base, and let your dragons actively contribute to crafting, production, and survival.
 <br clear="left"/>
 <p align="center">
 <img src="https://img.itch.zone/aW1hZ2UvNDUyOTk1OS8yNzAwMDc3My5wbmc=/original/Bibxoc.png" width="25%"/><img src="https://img.itch.zone/aW1hZ2UvNDUyOTk1OS8yNzAwMDc3NC5wbmc=/original/EsMtCw.png" width="25%"/><img src="https://img.itch.zone/aW1hZ2UvNDUyOTk1OS8yNzAwMDc2OS5wbmc=/original/aBEyqg.png" width="25%"/><img src="https://img.itch.zone/aW1hZ2UvNDUyOTk1OS8yNzAwMDc3MS5wbmc=/original/jhawhF.png" width="25%"/>

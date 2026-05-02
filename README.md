@@ -11,23 +11,6 @@ Working across game studios, freelance clients, and my own projects.
 
 Covering both engineering and art production end-to-end, from gameplay systems and technical pipelines to character art and environment design.<br>
 
-![Google Play](https://img.shields.io/badge/Google_Play-com.timesoul.game-414141?style=flat-square&logo=google-play&logoColor=white)
-
-[![Google Play](https://img.shields.io/badge/Google_Play-com.yourapp.id-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.yourapp.id)
-![Google Play](https://img.shields.io/badge/Google_Play_https://play.google.com/store/apps/details?id=com.yourapp-01875F?style=flat-square&logo=google-play&logoColor=white)
-![Google Play](https://img.shields.io/badge/Google_Play-Download-01875F?style=flat-square&logo=google-play&logoColor=white)
-
-![Steam](https://img.shields.io/badge/Steam-TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white)
-![Google Play](https://img.shields.io/badge/Google_Play-Download-000000?style=flat-square&logo=google-play&logoColor=white)
-![Google Play](https://img.shields.io/badge/Google_Play-Download-1a1a2e?style=flat-square&logo=google-play&logoColor=white)
-
-![Steam](https://img.shields.io/badge/Steam-TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000)
-![Google Play](https://img.shields.io/badge/Google_Play-com.timesoul.game-000000?style=flat-square&logo=google-play&logoColor=white&labelColor=000000)
-
-![Steam](https://img.shields.io/badge/Steam-TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000)
-![Google Play](https://img.shields.io/badge/Google_Play:-com.Kubrick.RoyalJump-000000?style=flat-square&logo=google-play&logoColor=white&labelColor=000000)
-![itch.io](https://img.shields.io/badge/itch.io-TIME_SOUL-000000?style=flat-square&logo=itch.io&logoColor=white&labelColor=000000)
-
 ---
 
 ## ◈ Specialties
@@ -67,7 +50,7 @@ ArchViz · AutoCAD </pre>
 ## ◈ Shipped Games
 
 <img align="left" width="30%" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/7892565cfcc766ed30ac1692a887a7e3f544b703/library_header.jpg?t=1731513472"/>
-<h3><a href="https://github.com/kubrvk/TimeSoul">1. TIME SOUL</a> <a href="https://store.steampowered.com/app/2928270/TIME_SOUL/"><img src="https://img.shields.io/badge/Steam: https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/TimeSoul">1-) TIME SOUL</a> <a href="https://store.steampowered.com/app/2928270/TIME_SOUL/"><img src="https://img.shields.io/badge/Steam: https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
@@ -80,7 +63,7 @@ TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.1 
 ---
 
 <img align="left" width="30%" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3420540/d6a468387076ca7158ea8f4090c50de85e833d14/header.jpg?t=1773568446"/>
-<h3><a href="https://github.com/kubrvk/UNOwenWasHer">1- U.N. Owen Was Her</a> <a href="https://store.steampowered.com/app/3420540/UN_Owen_Was_Her"><img src="https://img.shields.io/badge/Steam: https://store.steampowered.com/app/3420540/UN_Owen_Was_Her-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/UNOwenWasHer">2-)  U.N. Owen Was Her</a> <a href="https://store.steampowered.com/app/3420540/UN_Owen_Was_Her"><img src="https://img.shields.io/badge/Steam: https://store.steampowered.com/app/3420540/UN_Owen_Was_Her-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Horror-a13636?style=) ![](https://img.shields.io/badge/Action--Shooter-a17736?style=) ![](https://img.shields.io/badge/Bullet--Hell-like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.3-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
@@ -93,7 +76,7 @@ U.N. Owen Was Her is a third-person atmospheric horror game built in Unreal Engi
 ---
 
 <img align="left" width="30%" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3358020/header.jpg?t=1739608365"/>
-<h3><a href="https://github.com/kubrvk/OlympusOfTheHeavens">1-) Olympus of the Heavens</a> <a href="https://store.steampowered.com/app/3358020/Olympus_of_the_Heavens"><img src="https://img.shields.io/badge/Steam: https://steam.com/app/Olympus_of_the_Heavens-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/OlympusOfTheHeavens">3-) Olympus of the Heavens</a> <a href="https://store.steampowered.com/app/3358020/Olympus_of_the_Heavens"><img src="https://img.shields.io/badge/Steam: https://steam.com/app/Olympus_of_the_Heavens-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Isometric-a13636?style=) ![](https://img.shields.io/badge/Co--op-a17736?style=) ![](https://img.shields.io/badge/ARPG-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.3-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
@@ -106,7 +89,7 @@ Olympus of the Heavens is an isometric co-op action RPG built in Unreal Engine 5
 ---
 
 <img align="left" width="30%" height="160" src="https://play-lh.googleusercontent.com/jMaCfXaF4orA19-pa4tbOQZKW0USkhV8EvBGGhAeVRN7Nt51tg6CUnUaOyufFrs52-RM1vQ3EWvhVxLjcr6p=s256-rw"/>
-<h3><a href="https://github.com/kubrvk/RoyalJumpQueensCrown">Royal Jump: Queen's Crown</a> <a href="https://play.google.com/store/apps/details?id=com.Kubrick.RoyalJump"><img src="https://img.shields.io/badge/Google_Play:-com.Kubrick.RoyalJump-000000?style=flat-square&logo=google-play&logoColor=white&labelColor=000000" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/RoyalJumpQueensCrown">4-) Royal Jump: Queen's Crown</a> <a href="https://play.google.com/store/apps/details?id=com.Kubrick.RoyalJump"><img src="https://img.shields.io/badge/Google_Play:-com.Kubrick.RoyalJump-000000?style=flat-square&logo=google-play&logoColor=white&labelColor=000000" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Mobile-a13636?style=) ![](https://img.shields.io/badge/Platformer--a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.7-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
@@ -119,7 +102,7 @@ Royal Jump: Queen's Crown is a precision-based mobile platformer built in Unreal
 ---
 
 <img align="left" width="30%" height="160"  src="https://play-lh.googleusercontent.com/R5bjOx05taghdFkr_aLZe7-jUJKoeA-M8pBxaO9cel0SVa85qAXUxwLGNvJXNv8zFj1N4WpJ0YCxzs7SkSC78w=s256-rw"/>
-<h3><a href="https://github.com/kubrvk/RealCatRunner">Real Cat Runner</a> <a href="https://play.google.com/store/apps/details?id=com.Kubrick.RealCatRunner"><img src="https://img.shields.io/badge/Google_Play:-com.Kubrick.RealCatRunner-000000?style=flat-square&logo=google-play&logoColor=white&labelColor=000000" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/RealCatRunner">5-) Real Cat Runner</a> <a href="https://play.google.com/store/apps/details?id=com.Kubrick.RealCatRunner"><img src="https://img.shields.io/badge/Google_Play:-com.Kubrick.RealCatRunner-000000?style=flat-square&logo=google-play&logoColor=white&labelColor=000000" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Mobile-a13636?style=) ![](https://img.shields.io/badge/Platformer-a17736?style=) ![](https://img.shields.io/badge/Touch--Controls-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.3-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
@@ -132,7 +115,7 @@ Real Cat Runner is an endless auto-runner built in Unreal Engine 5.7 using C++, 
 ---
 
 <img align="left" width="30%"  height="160" src="https://play-lh.googleusercontent.com/d19ChUL2wZ8QjpijqUrkcIMgTDVNdl-c623tRfDaTW7Jb9UmmCPJBTH0D-1v--T51kXDwPq_MX9iEoWD09f6Lw=s256-rw"/>
-<h3><a href="https://github.com/kubrvk/MonsterGirlWave">Monster Girl Wave</a> <a href="https://play.google.com/store/apps/details?id=com.Kubrick.MonsterGirlWave"><img src="https://img.shields.io/badge/Google_Play:-com.Kubrick.MonsterGirlWave-000000?style=flat-square&logo=google-play&logoColor=white&labelColor=000000" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/MonsterGirlWave">6-) Monster Girl Wave</a> <a href="https://play.google.com/store/apps/details?id=com.Kubrick.MonsterGirlWave"><img src="https://img.shields.io/badge/Google_Play:-com.Kubrick.MonsterGirlWave-000000?style=flat-square&logo=google-play&logoColor=white&labelColor=000000" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Mobile-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
@@ -145,7 +128,7 @@ Monster Girl Wave is a fast-paced top-down action survival game built in Unreal 
 ---
 
 <img align="left" width="30%" height="160" src="https://img.itch.zone/aW1nLzI1NTE5NjYwLmpwZw==/315x250%23c/cu2TBY.jpg"/>
-<h3><a href="https://github.com/kubrvk/BloodGarden">Blood Garden</a> <a href="https://store.steampowered.com/search/?developer=Kubrick"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/BloodGarden">7-) Blood Garden</a> <a href="https://store.steampowered.com/search/?developer=Kubrick"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.4-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
@@ -159,7 +142,7 @@ The combat framework is built around a stamina economy that governs attacks, dod
 ---
 
 <img align="left" width="30%" height="160" src="https://img.itch.zone/aW1nLzI3MDAxMDYwLmpwZw==/315x250%23c/C014lQ.jpg"/>
-<h3><a href="https://github.com/kubrvk/TimeSoul">Skysmith Dragons</a> <a href="https://store.steampowered.com/search/?developer=Kubrick"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/TimeSoul">8-) Skysmith Dragons</a> <a href="https://store.steampowered.com/search/?developer=Kubrick"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.7-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
@@ -174,7 +157,7 @@ Take to the skies with fully controllable dragons and build your own flying airs
 ---
 
 <img align="left" width="30%"  height="160" src="https://img.itch.zone/aW1nLzI2OTk2ODcwLnBuZw==/315x250%23c/FyBPmz.png"/>
-<h3><a href="https://github.com/kubrvk/TimeSoul">Nerf This!</a><a href="https://kubrik.itch.io/nerfthis"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/TimeSoul">9-) Nerf This!</a><a href="https://kubrik.itch.io/nerfthis"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/rogue--like-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.7-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>

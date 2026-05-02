@@ -50,7 +50,7 @@ ArchViz · AutoCAD </pre>
 ## ◈ Shipped Games
 
 <img align="left" width="30%" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/7892565cfcc766ed30ac1692a887a7e3f544b703/library_header.jpg?t=1731513472"/>
-<h3><a href="https://github.com/kubrvk/TimeSoul">TIME SOUL</a> <a href="https://store.steampowered.com/search/?developer=Kubrick"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/TimeSoul">TIME SOUL</a> <a href="https://store.steampowered.com/app/2928270/TIME_SOUL/"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
@@ -63,9 +63,9 @@ TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.1 
 ---
 
 <img align="left" width="30%" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3420540/d6a468387076ca7158ea8f4090c50de85e833d14/header.jpg?t=1773568446"/>
-<h3><a href="https://github.com/kubrvk/UNOwenWasHer">U.N. Owen Was Her</a> <a href="https://store.steampowered.com/search/?developer=Kubrick"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/UNOwenWasHer">U.N. Owen Was Her</a> <a href="https://store.steampowered.com/app/3420540/UN_Owen_Was_Her/"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
 
-![](https://img.shields.io/badge/Horror-a13636?style=) ![](https://img.shields.io/badge/Action--Shooter-a17736?style=) ![](https://img.shields.io/badge/Bullet--Hell-like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
+![](https://img.shields.io/badge/Horror-a13636?style=) ![](https://img.shields.io/badge/Action--Shooter-a17736?style=) ![](https://img.shields.io/badge/Bullet--Hell-like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.3-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
 U.N. Owen Was Her is a third-person atmospheric horror game built in Unreal Engine 5.3 using C++. The player is trapped inside the Scarlet Mansion — a haunted estate populated by autonomous entities derived from the U.N. Owen figure. The game is structured around a Feed-or-Fight decision loop: enemies can be pacified through a hunger-state system that transforms their behavior and form, or engaged directly using a limited-ammo weapon set. Puzzle progression is tied to entity state, environmental manipulation, and resource management.
 <br clear="left"/>

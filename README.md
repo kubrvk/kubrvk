@@ -132,7 +132,8 @@ Monster Girl Wave is a fast-paced top-down action survival game built in Unreal 
 
 ![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.4-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
-TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.4 using C++. The game features a generative world structure, a real-time countdown resource system(timeas health), multi-layered parkour movement, and a hybrid class framework.
+Blood Garden is a fast-paced souls-like action combat game built in Unreal Engine 5.4 using C++. Set in a cursed garden where corrupted flora and divine remnants coexist, the game is centered on precise stamina-driven melee combat — emphasizing timing, resource management, and mechanical mastery over raw aggression.
+The combat framework is built around a stamina economy that governs attacks, dodges, and parries. Enemy AI operates on pattern-based state machines designed for readable but demanding encounters. The RPG layer provides a full equipment system with elemental damage typing, multi-slot gear, weight-based movement penalty, and a stat architecture visible across offense, defense, and elemental damage dimensions.
 <br clear="left"/>
 <p align="center">
 <img src="https://img.itch.zone/aW1hZ2UvNDE4MDY0Mi8yNTU1NzAxOS5wbmc=/original/r1f6v9.png" width="25%"/><img src="https://img.itch.zone/aW1hZ2UvNDE4MDY0Mi8yNTU1NzAzNC5wbmc=/original/ks2YWM.png" width="25%"/><img src="https://img.itch.zone/aW1hZ2UvNDE4MDY0Mi8yNTU1Njk5Mi5wbmc=/original/xy549w.png" width="25%"/><img src="https://img.itch.zone/aW1hZ2UvNDE4MDY0Mi8yNTU1NzAyOC5wbmc=/original/DDD4KN.png" width="25%"/>

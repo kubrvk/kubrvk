@@ -119,7 +119,7 @@ Real Cat Runner is an endless auto-runner built in Unreal Engine 5.7 using C++, 
 
 ![](https://img.shields.io/badge/Mobile-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
-TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.7 using C++. The game features a generative world structure, a real-time countdown resource system(timeas health), multi-layered parkour movement, and a hybrid class framework.
+Monster Girl Wave is a fast-paced top-down action survival game built in Unreal Engine 5.7 using C++, targeting Android. The player faces endless waves of procedurally composed enemy groups, each wave increasing in size, speed, and enemy type diversity. Between waves, a weapon upgrade selection system allows progressive build customization from a large weapon pool spanning firearms, launchers, and energy weapons.
 <br clear="left"/>
 <p align="center">
 <img src="https://play-lh.googleusercontent.com/xdiJa3CxPyRcLTwJH_Yk7udN9ikT4dnzqw3QLMDNmiR0wcnC-OAE82kwTWIYJahTWT6O8oOazvLDV9KKvJyf=w2560-h1440-rw" width="25%"/><img src="https://play-lh.googleusercontent.com/U1ThnF9l_Gqo0lRM-ENmZaJdQ75htxTguHCx9c2Y14hWfJL8FB7cbODkI05Yz4QOWiaoxcwiFX9V2t1TGaBQjv8=w2560-h1440-rw" width="25%"/><img src="https://play-lh.googleusercontent.com/p3HPLfIhEkOwdaPrsXzIMJUc0Hb4T56YqdQ1_dALwkPIB_AlSGqq8vUsMUd7vRtbCNyFn4jjx7XXrEcmS8GPEg=w2560-h1440-rw" width="25%"/><img src="https://play-lh.googleusercontent.com/N_SunhmeRk1UUn8IekV3LC0n9UFlHZI026ZNZbrzdPoaaAbBIPAzDj9XQpFu0AY8pja5jQIGiYDigh0l3UZ-cA=w2560-h1440-rw" width="25%"/>
@@ -145,7 +145,9 @@ TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.4 
 
 ![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.7-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
-TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.7 using C++. The game features a generative world structure, a real-time countdown resource system(timeas health), multi-layered parkour movement, and a hybrid class framework.
+Skysmith Dragons is a Unreal Engine sandbox survival experience focused on dragon taming, crafting, and aerial fly exploration.
+In a world of fractured lands and floating islands, dragons are tools, and power. Capture wild dragons, raise them, and shape them into companions that fight, gather, carry, and fly with you.
+Take to the skies with fully controllable dragons and build your own flying airship base, where your dragons actively contribute to crafting, production, and survival systems.
 <br clear="left"/>
 <p align="center">
 <img src="https://img.itch.zone/aW1hZ2UvNDUyOTk1OS8yNzAwMDc3My5wbmc=/original/Bibxoc.png" width="25%"/><img src="https://img.itch.zone/aW1hZ2UvNDUyOTk1OS8yNzAwMDc3NC5wbmc=/original/EsMtCw.png" width="25%"/><img src="https://img.itch.zone/aW1hZ2UvNDUyOTk1OS8yNzAwMDc2OS5wbmc=/original/aBEyqg.png" width="25%"/><img src="https://img.itch.zone/aW1hZ2UvNDUyOTk1OS8yNzAwMDc3MS5wbmc=/original/jhawhF.png" width="25%"/>
@@ -159,6 +161,8 @@ TIME SOUL is a souls-like action-platformer built entirely in Unreal Engine 5.7 
 ![](https://img.shields.io/badge/rogue--like-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.7-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
 Nerf This! is an early development Unreal Engine project that blends real-time third-person combat with deckbuilding strategy in a roguelike dungeon format.
+Every run generate into a shifting dungeon filled with hostile encounters, random rewards, and best choices. 
+Cards define your abilities, modify your attacks, and unlock powerful synergies. Whether you lean into aggressive combos, defensive control, or risky high-reward setups, your playstyle evolves with every decision you make.
 <br clear="left"/>
 <p align="center">
 <img src="https://img.itch.zone/aW1hZ2UvNDUyOTY0Mi8yNjk5NzgzOC5wbmc=/original/is5eSH.png" width="25%"/><img src="https://img.itch.zone/aW1hZ2UvNDUyOTY0Mi8yNjk5NzgzNC5wbmc=/original/4Vruk%2B.png" width="25%"/><img src="https://img.itch.zone/aW1hZ2UvNDUyOTY0Mi8yNjk5NzgzNS5wbmc=/original/%2F%2FgIpQ.png" width="25%"/><img src="https://img.itch.zone/aW1hZ2UvNDUyOTY0Mi8yNjk5NzgzNi5wbmc=/original/G25Zqv.png" width="25%"/>

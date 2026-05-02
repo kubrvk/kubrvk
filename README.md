@@ -114,7 +114,7 @@ Real Cat Runner is an endless auto-runner built in Unreal Engine 5.7 using C++, 
 
 ---
 
-<img align="left" width="30%"  height="160" src="https://play-lh.googleusercontent.com/d19ChUL2wZ8QjpijqUrkcIMgTDVNdl-c623tRfDaTW7Jb9UmmCPJBTH0D-1v--T51kXDwPq_MX9iEoWD09f6Lw=s256-rw"/>
+<img align="left" width="30%"  height="160" src="https://github.com/kubrvk/MonsterGirlWave/blob/main/Content/MonsterGirlWave/banner.jpg?raw=true"/>
 <h3><a href="https://github.com/kubrvk/MonsterGirlWave">6-) Monster Girl Wave</a> <a href="https://play.google.com/store/apps/details?id=com.Kubrick.MonsterGirlWave"><img src="https://img.shields.io/badge/Google_Play:-com.Kubrick.MonsterGirlWave-000000?style=flat-square&logo=google-play&logoColor=white&labelColor=000000" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Mobile-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 

@@ -76,9 +76,9 @@ U.N. Owen Was Her is a third-person atmospheric horror game built in Unreal Engi
 ---
 
 <img align="left" width="30%" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3358020/header.jpg?t=1739608365"/>
-<h3><a href="https://github.com/kubrvk/OlympusOfTheHeavens">Olympus of the Heavens</a> <a href="https://store.steampowered.com/search/?developer=Kubrick"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/OlympusOfTheHeavens">Olympus of the Heavens</a> <a href="https://store.steampowered.com/app/3358020/Olympus_of_the_Heavens"><img src="https://img.shields.io/badge/Steam https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
 
-![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
+![](https://img.shields.io/badge/Isometric-a13636?style=) ![](https://img.shields.io/badge/Co--op-a17736?style=) ![](https://img.shields.io/badge/ARPG-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
 Olympus of the Heavens is an isometric co-op action RPG built in Unreal Engine 5.3 using C++. Players ascend through a series of god-specific temples, each housing one of the 12 Olympian bosses, defeat them to seize their sacred flames, and build toward a final ascension. The game is structured around a boss-rush loop with deep character build customization — skill trees, equipment layering, artifact systems, and a crafting pipeline — combined with a procedural generation system that ensures structural variety across runs.
 <br clear="left"/>

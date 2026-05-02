@@ -11,6 +11,23 @@ Working across game studios, freelance clients, and my own projects.
 
 Covering both engineering and art production end-to-end, from gameplay systems and technical pipelines to character art and environment design.<br>
 
+![Google Play](https://img.shields.io/badge/Google_Play-com.timesoul.game-414141?style=flat-square&logo=google-play&logoColor=white)
+
+[![Google Play](https://img.shields.io/badge/Google_Play-com.yourapp.id-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.yourapp.id)
+![Google Play](https://img.shields.io/badge/Google_Play_https://play.google.com/store/apps/details?id=com.yourapp-01875F?style=flat-square&logo=google-play&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google_Play-Download-01875F?style=flat-square&logo=google-play&logoColor=white)
+
+![Steam](https://img.shields.io/badge/Steam-TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google_Play-Download-000000?style=flat-square&logo=google-play&logoColor=white)
+![Google Play](https://img.shields.io/badge/Google_Play-Download-1a1a2e?style=flat-square&logo=google-play&logoColor=white)
+
+![Steam](https://img.shields.io/badge/Steam-TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000)
+![Google Play](https://img.shields.io/badge/Google_Play-com.timesoul.game-000000?style=flat-square&logo=google-play&logoColor=white&labelColor=000000)
+
+![Steam](https://img.shields.io/badge/Steam-TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white&labelColor=000000)
+![Google Play](https://img.shields.io/badge/Google_Play:-com.Kubrick.RoyalJump-000000?style=flat-square&logo=google-play&logoColor=white&labelColor=000000)
+![itch.io](https://img.shields.io/badge/itch.io-TIME_SOUL-000000?style=flat-square&logo=itch.io&logoColor=white&labelColor=000000)
+
 ---
 
 ## ◈ Specialties

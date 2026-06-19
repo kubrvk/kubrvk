@@ -50,7 +50,7 @@ ArchViz · AutoCAD </pre>
 ## ◈ App & Web React Published
 
 <img align="left" width="30%" height="128px" src="https://github.com/kubrvk/portfolio/blob/main/img/galeri/a2.PNG"/>
-<h3><a href="https://github.com/kubrvk/barkodtakip">1-) Barcode Track</a> <a href="https://barkodtakips.web.app//"><img src="https://img.shields.io/badge/Steam: https://barkodtakips.web.app/-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/barkodtakip">1-) Barcode Track</a> <a href="https://barkodtakips.web.app//"> <img src="https://img.shields.io/badge/Live Demo: https://barkodtakips.web.app-042621?style=&logo=codecrafters&logoColor=white" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![](https://img.shields.io/badge/Parkour-33488d?style=) ![ReactNative](https://img.shields.io/badge/ReactNative-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
@@ -59,7 +59,7 @@ The app helps users scan barcodes, save product information, manage, and track s
 
 
 <img align="left" width="30%" src="https://github.com/kubrvk/portfolio/blob/main/img/galeri/antalyahotel1.PNG"/>
-<h3><a href="https://github.com/kubrvk/AntalyaHotelSystems">2-) Antalya Hotel Systems</a> <a href="https://antalyahotelsystems.firebaseapp.com/"><img src="https://img.shields.io/badge/Steam: https://antalyahotelsystems.firebaseapp.com-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/AntalyaHotelSystems">2-) Antalya Hotel Systems</a> <a href="https://antalyahotelsystems.firebaseapp.com/"><img src="https://img.shields.io/badge/Live Demo: https://antalyahotelsystems.firebaseapp.com-0c2b23?style=&logo=codecrafters&logoColor=white" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![](https://img.shields.io/badge/Parkour-33488d?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
@@ -67,7 +67,7 @@ React-based hotel management and reservation platform designed for publishing ro
 
 
 <img align="left" width="30%" src="https://github.com/kubrvk/portfolio/blob/main/img/galeri/ticaret1.PNG"/>
-<h3><a href="https://github.com/kubrvk/eticaretdepo">3-) E-Ticaret Depo</a> <a href="https://eticaretdepo.web.app"><img src="https://img.shields.io/badge/Steam: https://eticaretdepo.web.app-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/eticaretdepo">3-) E-Ticaret Depo</a> <a href="https://eticaretdepo.web.app"><img src="https://img.shields.io/badge/Live Demo: https://eticaretdepo.web.app-042621?style=&logo=codecrafters&logoColor=white" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![](https://img.shields.io/badge/Parkour-33488d?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>

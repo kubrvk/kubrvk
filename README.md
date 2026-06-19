@@ -49,7 +49,7 @@ ArchViz · AutoCAD </pre>
 
 ## ◈ App & Web React Published
 
-<img align="left" width="30%" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/7892565cfcc766ed30ac1692a887a7e3f544b703/library_header.jpg?t=1731513472"/>
+<img align="left" width="30%" height="128px" src="https://github.com/kubrvk/portfolio/blob/main/img/galeri/a2.PNG"/>
 <h3><a href="https://github.com/kubrvk/TimeSoul">1-) Barcode Track</a> <a href="https://store.steampowered.com/app/2928270/TIME_SOUL/"><img src="https://img.shields.io/badge/Steam: https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![](https://img.shields.io/badge/Parkour-33488d?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
@@ -58,7 +58,7 @@ Barcode Tracking is a simple and practical product and stock management app buil
 The app helps users scan barcodes, save product information, manage, and track stock easily. 
 
 
-<img align="left" width="30%" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/7892565cfcc766ed30ac1692a887a7e3f544b703/library_header.jpg?t=1731513472"/>
+<img align="left" width="30%" src="https://github.com/kubrvk/portfolio/blob/main/img/galeri/antalyahotel1.PNG"/>
 <h3><a href="https://github.com/kubrvk/TimeSoul">2-) Antalya Hotel Systems</a> <a href="https://store.steampowered.com/app/2928270/TIME_SOUL/"><img src="https://img.shields.io/badge/Steam: https://store.steampowered.com/app/2928270/TIME_SOUL-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![](https://img.shields.io/badge/Parkour-33488d?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
@@ -66,7 +66,7 @@ The app helps users scan barcodes, save product information, manage, and track s
 React-based hotel management and reservation platform designed for publishing rooms, managing hotel content, and handling reservation-related operations. The system includes an admin panel where hotel staff can add and update rooms, manage room details, publish hotel information, and control reservation content from a single dashboard.
 
 
-<img align="left" width="30%" src="https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2928270/7892565cfcc766ed30ac1692a887a7e3f544b703/library_header.jpg?t=1731513472"/>
+<img align="left" width="30%" src="https://github.com/kubrvk/portfolio/blob/main/img/galeri/ticaret1.PNG"/>
 <h3><a href="https://github.com/kubrvk/TimeSoul">3-) E-Ticaret Depo</a> <a href="https://eticaretdepo.web.app"><img src="https://img.shields.io/badge/Steam: https://eticaretdepo.web.app-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![](https://img.shields.io/badge/Parkour-33488d?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 

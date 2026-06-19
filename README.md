@@ -50,9 +50,9 @@ ArchViz · AutoCAD </pre>
 ## ◈ App & Web React Published
 
 <img align="left" width="30%" height="128px" src="https://github.com/kubrvk/portfolio/blob/main/img/galeri/a2.PNG"/>
-<h3><a href="https://github.com/kubrvk/barkodtakip">1-) Barcode Track</a> <a href="https://barkodtakips.web.app//"> <img src="https://img.shields.io/badge/Live Demo: https://barkodtakips.web.app-042621?style=&logo=codecrafters&logoColor=white" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/barkodtakip">1-) Barcode Track</a></h3>
 
-![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![](https://img.shields.io/badge/Parkour-33488d?style=) ![ReactNative](https://img.shields.io/badge/ReactNative-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.1-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
+![](https://img.shields.io/badge/Android-30651f?style=) ![](https://img.shields.io/badge/APP-33488d?style=) ![ReactNative](https://img.shields.io/badge/ReactNative-00599C?style=logo=c%2B%2B&logoColor=white)   <a href="https://barkodtakips.web.app//"> <img src="https://img.shields.io/badge/Live Demo: https://barkodtakips.web.app-042621?style=&logo=codecrafters&logoColor=white" height="25"/> </a> 
 <br>
 Barcode Tracking is a simple and practical product and stock management app built with React Native for both Android and web platforms.<br>
 The app helps users scan barcodes, save product information, manage, and track stock easily. 

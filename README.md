@@ -49,7 +49,7 @@ ArchViz · AutoCAD </pre>
 
 ## ◈ App & Web React Published
 
-<img align="left" width="30%" height="148px" src="https://github.com/kubrvk/portfolio/blob/main/img/galeri/barkodtakip11.png"/>
+<img align="left" width="30%" height="140px" src="https://github.com/kubrvk/portfolio/blob/main/img/galeri/barkodtakip11.png"/>
 <h3><a href="https://github.com/kubrvk/barkodtakip">1-) Barcode Track</a></h3>
 
 ![](https://img.shields.io/badge/Android-30651f?style=) ![](https://img.shields.io/badge/APP-33488d?style=) ![ReactNative](https://img.shields.io/badge/ReactNative-00599C?style=logo=c%2B%2B&logoColor=white)   <a href="https://barkodtakips.web.app//"> <img src="https://img.shields.io/badge/Live Demo: https://barkodtakips.web.app-042621?style=&logo=codecrafters&logoColor=white" height="25"/> </a> 
@@ -65,7 +65,7 @@ The app helps scan barcodes, save product information, manage, and track stock e
 <br>
 Hotel management and reservation platform designed for rooms, managing hotel, and handling reservation operations. The system includes an admin panel where staff can add and update rooms, manage room details, and control reservation content from dashboard.
 
-<img align="left" width="30%"  height="148px"  src="https://github.com/kubrvk/portfolio/blob/main/img/galeri/eticaret44.PNG"/>
+<img align="left" width="30%"  height="140px"  src="https://github.com/kubrvk/portfolio/blob/main/img/galeri/eticaret44.PNG"/>
 <h3><a href="https://github.com/kubrvk/eticaretdepo">3-) E-Ticaret Depo</a> </h3>
 
 ![](https://img.shields.io/badge/Web-33488d?style=) ![](https://img.shields.io/badge/AdminPanel-3c4293?style=)  ![React](https://img.shields.io/badge/React-00599C?style=logo=c%2B%2B&logoColor=white)  <a href="https://eticaretdepo.web.app"><img src="https://img.shields.io/badge/Live Demo: https://eticaretdepo.web.app-042621?style=&logo=codecrafters&logoColor=white" height="25"/> </a>

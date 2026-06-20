@@ -5,12 +5,12 @@
 [![GooglePlay](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6320705170911123485) 
 [![Itch.io](https://img.shields.io/badge/Itch.io-851d10?style=flat-square&logo=itch.io&logoColor=white)](https://kubrik.itch.io) 
 
- > `Unreal Engine Developer` · `Technical Artist` · `Game Creator`
+ >  `Full stack developer` · `Unreal Engine Developer` · `Technical Artist` · `3D Artist` · `Designer` 
 
-Game developer and 3D artist specializing in Unreal Engine C++, 3D modeling & technical art, and web development.<br>
+Developer and Designer specializing in C++(Unreal Engine), 3D modeling & technical art, and App / Web(React) development.<br>
 Working across game studios, freelance clients, and my own projects.
 
-Covering both engineering and art production end-to-end, from gameplay systems and technical pipelines to character art and environment design.<br>
+Covering both engineering and art production end-to-end, from app development, gameplay systems and technical pipelines to character art and environment design.<br>
 
 ---
 

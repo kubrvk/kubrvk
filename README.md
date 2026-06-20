@@ -1,4 +1,5 @@
 ## ◈ About Me 
+[![ArtStation](https://img.shields.io/badge/Portfolio-c45029?style=flat-square&logo=singlestore&logoColor=white)](https://kubrvk.github.io/portfolio) 
 [![ArtStation](https://img.shields.io/badge/ArtStation-1289ba?style=flat-square&logo=artstation&logoColor=white)](https://www.artstation.com/kubrik) 
 [![Steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=white)](https://store.steampowered.com/search/?developer=Kubrick) 
 [![GooglePlay](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=6320705170911123485) 

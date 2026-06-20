@@ -49,7 +49,7 @@ ArchViz · AutoCAD </pre>
 
 ## ◈ App & Web React Published
 
-<img align="left" width="30%" height="128px" src="https://github.com/kubrvk/portfolio/blob/main/img/galeri/a2.PNG"/>
+<img align="left" width="30%" height="128px" src="https://github.com/kubrvk/portfolio/blob/main/img/galeri/barkodtakip11.png"/>
 <h3><a href="https://github.com/kubrvk/barkodtakip">1-) Barcode Track</a></h3>
 
 ![](https://img.shields.io/badge/Android-30651f?style=) ![](https://img.shields.io/badge/APP-33488d?style=) ![ReactNative](https://img.shields.io/badge/ReactNative-00599C?style=logo=c%2B%2B&logoColor=white)   <a href="https://barkodtakips.web.app//"> <img src="https://img.shields.io/badge/Live Demo: https://barkodtakips.web.app-042621?style=&logo=codecrafters&logoColor=white" height="25"/> </a> 
@@ -58,7 +58,7 @@ Barcode Tracking is a simple and practical product and stock management app buil
 The app helps scan barcodes, save product information, manage, and track stock easily. 
 
 
-<img align="left" width="30%" src="https://github.com/kubrvk/portfolio/blob/main/img/galeri/antalyahotel1.PNG"/>
+<img align="left" width="30%" src="https://github.com/kubrvk/portfolio/blob/main/img/galeri/antalyahotel8.PNG"/>
 <h3><a href="https://github.com/kubrvk/AntalyaHotelSystems">2-) Antalya Hotel Systems</a> </h3>
 
 ![](https://img.shields.io/badge/Web-33488d?style=) ![](https://img.shields.io/badge/AdminPanel-3c4293?style=)  ![React](https://img.shields.io/badge/React-00599C?style=logo=c%2B%2B&logoColor=white)   <a href="https://barkodtakips.web.app//"> <a href="https://antalyahotelsystems.firebaseapp.com/"><img src="https://img.shields.io/badge/Live Demo: https://antalyahotelsystems.firebaseapp.com-0c2b23?style=&logo=codecrafters&logoColor=white" height="25"/> </a>
@@ -67,7 +67,7 @@ Hotel management and reservation platform designed for rooms, managing hotel, an
 
 <br/><br/>
 
-<img align="left" width="30%" src="https://github.com/kubrvk/portfolio/blob/main/img/galeri/ticaret1.PNG"/>
+<img align="left" width="30%" src="https://github.com/kubrvk/portfolio/blob/main/img/galeri/eticaret44.PNG"/>
 <h3><a href="https://github.com/kubrvk/eticaretdepo">3-) E-Ticaret Depo</a> </h3>
 
 ![](https://img.shields.io/badge/Web-33488d?style=) ![](https://img.shields.io/badge/AdminPanel-3c4293?style=)  ![React](https://img.shields.io/badge/React-00599C?style=logo=c%2B%2B&logoColor=white)  <a href="https://eticaretdepo.web.app"><img src="https://img.shields.io/badge/Live Demo: https://eticaretdepo.web.app-042621?style=&logo=codecrafters&logoColor=white" height="25"/> </a>

@@ -66,6 +66,8 @@ The app helps users scan barcodes, save product information, manage, and track s
 Hotel management and reservation platform designed for rooms, managing hotel, and handling reservation operations. The system includes an admin panel where staff can add and update rooms, manage room details, and control reservation content from dashboard.
 
 
+<br/><br/><br/>
+
 <img align="left" width="30%" src="https://github.com/kubrvk/portfolio/blob/main/img/galeri/ticaret1.PNG"/>
 <h3><a href="https://github.com/kubrvk/eticaretdepo">3-) E-Ticaret Depo</a> </h3>
 

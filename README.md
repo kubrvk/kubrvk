@@ -70,7 +70,7 @@ Hotel management and reservation platform designed for rooms, managing hotel, an
 
 ![](https://img.shields.io/badge/Web-33488d?style=) ![](https://img.shields.io/badge/AdminPanel-3c4293?style=)  ![React](https://img.shields.io/badge/React-00599C?style=logo=c%2B%2B&logoColor=white)  <a href="https://eticaretdepo.web.app"><img src="https://img.shields.io/badge/Live Demo: https://eticaretdepo.web.app-042621?style=&logo=codecrafters&logoColor=white" height="25"/> </a>
 <br>
-E-commerce and warehouse management with both frontend features and backend stock control tools. Browse and purchase warehouse products from the website, admin panel provides tools for managing products, stock levels, orders, categories, and warehouse-related data.
+E-commerce and warehouse management with both frontend features and backend stock control tools. Browse and purchase warehouse products, admin panel provides tools for managing products, stock levels, orders, categories, and warehouse data.
 
 
 ## ◈ Unreal Engine Shipped Games

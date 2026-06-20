@@ -55,7 +55,7 @@ ArchViz · AutoCAD </pre>
 ![](https://img.shields.io/badge/Android-30651f?style=) ![](https://img.shields.io/badge/APP-33488d?style=) ![ReactNative](https://img.shields.io/badge/ReactNative-00599C?style=logo=c%2B%2B&logoColor=white)   <a href="https://barkodtakips.web.app//"> <img src="https://img.shields.io/badge/Live Demo: https://barkodtakips.web.app-042621?style=&logo=codecrafters&logoColor=white" height="25"/> </a> 
 <br>
 Barcode Tracking is a simple and practical product and stock management app built with React Native for both Android and web platforms.<br>
-The app helps users scan barcodes, save product information, manage, and track stock easily. 
+The app helps scan barcodes, save product information, manage, and track stock easily. 
 
 
 <img align="left" width="30%" src="https://github.com/kubrvk/portfolio/blob/main/img/galeri/antalyahotel1.PNG"/>
@@ -65,8 +65,7 @@ The app helps users scan barcodes, save product information, manage, and track s
 <br>
 Hotel management and reservation platform designed for rooms, managing hotel, and handling reservation operations. The system includes an admin panel where staff can add and update rooms, manage room details, and control reservation content from dashboard.
 
-
-<br/><br/><br/>
+<br/><br/>
 
 <img align="left" width="30%" src="https://github.com/kubrvk/portfolio/blob/main/img/galeri/ticaret1.PNG"/>
 <h3><a href="https://github.com/kubrvk/eticaretdepo">3-) E-Ticaret Depo</a> </h3>

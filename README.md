@@ -10,7 +10,7 @@
 Developer and Designer specializing in C++(Unreal Engine), 3D modeling & technical art, and App / Web(React) development.<br>
 Working across game studios, freelance clients, and my own projects.
 
-Covering both engineering and art production end-to-end, from app development, gameplay systems and technical pipelines to character art and environment design.<br>
+Covering coding and art production, from apps and gameplay systems to technical pipelines, character art, and environment design.<br>
 
 ---
 

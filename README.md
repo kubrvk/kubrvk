@@ -8,7 +8,7 @@
  >  `Full stack developer` · `Unreal Engine Developer` · `Technical Artist` · `3D Artist` · `Designer` 
 
 Developer and Designer specializing in C++(Unreal Engine), 3D modeling & technical art, and App / Web(React) development.<br>
-Working across game studios, freelance clients, and my own projects.
+Working across studios, contract & freelance clients, and my own projects.
 
 Covering coding and art production, from apps and gameplay systems to technical pipelines, character art, and environment design.<br>
 

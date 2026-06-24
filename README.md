@@ -62,7 +62,7 @@ The app helps scan barcodes, save product information, manage, and track stock e
 <img align="left" width="30%" src="https://github.com/kubrvk/portfolio/blob/main/img/galeri/antalyahotel8.PNG"/>
 <h3><a href="https://github.com/kubrvk/AntalyaHotelSystems">2-) Antalya Hotel Systems</a> </h3>
 
-![](https://img.shields.io/badge/Web-33488d?style=) ![](https://img.shields.io/badge/AdminPanel-3c4293?style=)  ![React](https://img.shields.io/badge/React-00599C?style=logo=c%2B%2B&logoColor=white)   <a href="https://barkodtakips.web.app//"> <a href="https://antalyahotelsystems.firebaseapp.com/"><img src="https://img.shields.io/badge/Live Demo: https://antalyahotelsystems.firebaseapp.com-0c2b23?style=&logo=codecrafters&logoColor=white" height="25"/> </a>
+![](https://img.shields.io/badge/Web-33488d?style=) ![](https://img.shields.io/badge/AdminPanel-3c4293?style=)  ![React](https://img.shields.io/badge/React-00599C?style=logo=c%2B%2B&logoColor=white)   <a href="https://barkodtakips.web.app//"> <a href="https://antalyahotelsystems.firebaseapp.com/"><img src="https://img.shields.io/badge/Live Demo: https://antalyahotelsystems.web.com-0c2b23?style=&logo=codecrafters&logoColor=white" height="25"/> </a>
 <br>
 Hotel management and reservation platform designed for rooms, managing hotel, and handling reservation operations. The system includes an admin panel where staff can add and update rooms, manage room details, and control reservation content from dashboard.
 

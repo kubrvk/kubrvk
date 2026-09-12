@@ -115,8 +115,21 @@ An isometric co-op action RPG. Ascend through 12 god temples, defeating bosses, 
 
 ---
 
+<img align="left" width="30%" src="https://github.com/kubrvk/Cubiciousflage/blob/main/Docs/img/store_capsule_header.png"/>
+<h3><a href="https://github.com/kubrvk/Cubiciousflage">4-) Cubiciousflage</a> <a href="https://store.steampowered.com/app/5041030/Cubiciousflage"><img src="https://img.shields.io/badge/Steam: https://store.steampowered.com/app/5041030/Cubiciousflage-000000?style=flat-square&logo=steam&logoColor=white" height="25"/> </a></h3>
+
+![](https://img.shields.io/badge/Voxel-275BF5?style=) ![](https://img.shields.io/badge/Co--op-588580?style=) ![](https://img.shields.io/badge/Hunt-E64C4C?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.8-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
+<br>
+Cubiciousflage is a vibrant, multiplayer voxel action game built natively in Unreal Engine 5.8 (C++). Combining high-stakes Prop Hunt hide-and-seek with an in-game Cube Builder and a procedural vertical parkour mode (Climp Tower), Cubiciousflage lets players sculpt, disguise, shoot, and destroy everything down to the individual voxel.
+<br clear="left"/>
+<p align="center">
+<img src="https://github.com/kubrvk/Cubiciousflage/blob/main/Docs/img/32.jpg" width="25%"/><img src="https://github.com/kubrvk/Cubiciousflage/blob/main/Docs/img/37.jpg" width="25%"/><img src="https://github.com/kubrvk/Cubiciousflage/blob/main/Docs/img/30.jpg" width="25%"/><img src="https://github.com/kubrvk/Cubiciousflage/blob/main/Docs/img/40.jpg" width="25%"/>
+</p>
+
+---
+
 <img align="left" width="30%" height="160" src="https://github.com/kubrvk/RoyalJumpQueensCrown/blob/main/Content/RoyalJump/banner-git.jpg?raw=true"/>
-<h3><a href="https://github.com/kubrvk/RoyalJumpQueensCrown">4-) Royal Jump: Queen's Crown</a> <a href="https://play.google.com/store/apps/details?id=com.Kubrick.RoyalJump"><img src="https://img.shields.io/badge/Google_Play:-com.Kubrick.RoyalJump-000000?style=flat-square&logo=google-play&logoColor=white&labelColor=000000" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/RoyalJumpQueensCrown">5-) Royal Jump: Queen's Crown</a> <a href="https://play.google.com/store/apps/details?id=com.Kubrick.RoyalJump"><img src="https://img.shields.io/badge/Google_Play:-com.Kubrick.RoyalJump-000000?style=flat-square&logo=google-play&logoColor=white&labelColor=000000" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Mobile-0c5299?style=) ![](https://img.shields.io/badge/Platformer-759651?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.7-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
@@ -129,7 +142,7 @@ A mobile platformer targeting Android. Guide the Queen through vertical levels w
 ---
 
 <img align="left" width="30%" src="https://github.com/kubrvk/RealCatRunner/blob/main/Content/RealCatRunner/images/catbanner.jpg"/>
-<h3><a href="https://github.com/kubrvk/RealCatRunner">5-) Real Cat Runner</a> <a href="https://play.google.com/store/apps/details?id=com.Kubrick.RealCatRunner"><img src="https://img.shields.io/badge/Google_Play:-com.Kubrick.RealCatRunner-000000?style=flat-square&logo=google-play&logoColor=white&labelColor=000000" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/RealCatRunner">6-) Real Cat Runner</a> <a href="https://play.google.com/store/apps/details?id=com.Kubrick.RealCatRunner"><img src="https://img.shields.io/badge/Google_Play:-com.Kubrick.RealCatRunner-000000?style=flat-square&logo=google-play&logoColor=white&labelColor=000000" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Mobile-0c5299?style=) ![](https://img.shields.io/badge/Platformer-759651?style=) ![](https://img.shields.io/badge/Touch--Controls-635196?style=) ![Blueprint](https://img.shields.io/badge/Blueprint-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.7-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
@@ -142,7 +155,7 @@ An endless auto-runner targeting Android. Control a cat through a procedurally g
 ---
 
 <img align="left" width="30%"  height="160" src="https://github.com/kubrvk/MonsterGirlWave/blob/main/Content/MonsterGirlWave/banner.jpg?raw=true"/>
-<h3><a href="https://github.com/kubrvk/MonsterGirlWave">6-) Monster Girl Wave</a> <a href="https://play.google.com/store/apps/details?id=com.Kubrick.MonsterGirlWave"><img src="https://img.shields.io/badge/Google_Play:-com.Kubrick.MonsterGirlWave-000000?style=flat-square&logo=google-play&logoColor=white&labelColor=000000" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/MonsterGirlWave">7-) Monster Girl Wave</a> <a href="https://play.google.com/store/apps/details?id=com.Kubrick.MonsterGirlWave"><img src="https://img.shields.io/badge/Google_Play:-com.Kubrick.MonsterGirlWave-000000?style=flat-square&logo=google-play&logoColor=white&labelColor=000000" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Mobile-0c5299?style=) ![](https://img.shields.io/badge/Wave--Rush-a17736?style=) ![](https://img.shields.io/badge/Random--Enemy-7b1717?style=) ![Blueprint](https://img.shields.io/badge/Blueprint-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.7-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
@@ -155,7 +168,7 @@ Fast-paced top-down survival game targeting Android. Face endless waves of proce
 ---
 
 <img align="left" width="30%" height="160" src="https://img.itch.zone/aW1nLzI1NTE5NjYwLmpwZw==/315x250%23c/cu2TBY.jpg"/>
-<h3><a href="https://github.com/kubrvk/BloodGarden">7-) Blood Garden</a> <a href="https://kubrik.itch.io/bloodgarden"> <img src="https://img.shields.io/badge/itch.io: https://kubrik.itch.io/bloodgarden-000000?style=flat-square&logo=itch.io&logoColor=white&labelColor=000000" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/BloodGarden">8-) Blood Garden</a> <a href="https://kubrik.itch.io/bloodgarden"> <img src="https://img.shields.io/badge/itch.io: https://kubrik.itch.io/bloodgarden-000000?style=flat-square&logo=itch.io&logoColor=white&labelColor=000000" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Dodge/Parry-3c4293?style=)  ![](https://img.shields.io/badge/Souls--like-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.4-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![Status](https://img.shields.io/badge/Status-Early_Development-851d10?style=for-the-badges)
 <br>
@@ -168,7 +181,7 @@ Action souls-like set in a cursed garden where corrupted flora and divine remnan
 ---
 
 <img align="left" width="30%" height="160" src="https://img.itch.zone/aW1nLzI3MDAxMDYwLmpwZw==/315x250%23c/C014lQ.jpg"/>
-<h3><a href="https://github.com/kubrvk/skysmithdragons">8-) Skysmith Dragons</a> <a href="https://kubrik.itch.io/skysmithdragons"> <img src="https://img.shields.io/badge/itch.io: https://kubrik.itch.io/skysmithdragons-000000?style=flat-square&logo=itch.io&logoColor=white&labelColor=000000" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/skysmithdragons">9-) Skysmith Dragons</a> <a href="https://kubrik.itch.io/skysmithdragons"> <img src="https://img.shields.io/badge/itch.io: https://kubrik.itch.io/skysmithdragons-000000?style=flat-square&logo=itch.io&logoColor=white&labelColor=000000" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Survival-44933c?style=) ![](https://img.shields.io/badge/Sandbox-ba8810?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.7-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![Status](https://img.shields.io/badge/Status-Early_Development-851d10?style=for-the-badges)
 <br>
@@ -181,7 +194,35 @@ Sandbox survival experience in Unreal Engine focused on dragon taming, crafting,
 ---
 
 <img align="left" width="30%"  height="160" src="https://img.itch.zone/aW1nLzI2OTk2ODcwLnBuZw==/315x250%23c/FyBPmz.png"/>
-<h3><a href="https://github.com/kubrvk/nerfthis">9-) Nerf This!</a><a href="https://kubrik.itch.io/nerfthis"> <img src="https://img.shields.io/badge/itch.io: https://kubrik.itch.io/nerfthis-000000?style=flat-square&logo=itch.io&logoColor=white&labelColor=000000" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/nerfthis">10-) Nerf This!</a><a href="https://kubrik.itch.io/nerfthis"> <img src="https://img.shields.io/badge/itch.io: https://kubrik.itch.io/nerfthis-000000?style=flat-square&logo=itch.io&logoColor=white&labelColor=000000" height="25"/> </a></h3>
+
+![](https://img.shields.io/badge/Rogue--like-a00d7c?style=) ![](https://img.shields.io/badge/Deck--Builder-0da083?style=) ![](https://img.shields.io/badge/Crafting-849d64?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.7-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![Status](https://img.shields.io/badge/Status-Early_Development-851d10?style=for-the-badges)
+<br>
+Nerf This! is an early-development third-person combat game that combines real-time action with deckbuilding strategy in a roguelike dungeon format.<br>
+Each run drops you into a shifting dungeon filled with hostile encounters, random rewards, and meaningful choices. Cards define your abilities, modify your attacks, and unlock powerful synergies, letting your playstyle evolve with every decision.
+<br clear="left"/>
+<p align="center">
+<img src="https://img.itch.zone/aW1hZ2UvNDUyOTY0Mi8yNjk5NzgzOC5wbmc=/original/is5eSH.png" width="25%"/><img src="https://img.itch.zone/aW1hZ2UvNDUyOTY0Mi8yNjk5NzgzNC5wbmc=/original/4Vruk%2B.png" width="25%"/><img src="https://img.itch.zone/aW1hZ2UvNDUyOTY0Mi8yNjk5NzgzNS5wbmc=/original/%2F%2FgIpQ.png" width="25%"/><img src="https://img.itch.zone/aW1hZ2UvNDUyOTY0Mi8yNjk5NzgzNi5wbmc=/original/G25Zqv.png" width="25%"/>
+</p>
+
+---
+
+<img align="left" width="30%"  height="160" src="https://img.itch.zone/aW1nLzI2OTk2ODcwLnBuZw==/315x250%23c/FyBPmz.png"/>
+<h3><a href="https://github.com/kubrvk/nerfthis">10-) Nerf This!</a><a href="https://kubrik.itch.io/nerfthis"> <img src="https://img.shields.io/badge/itch.io: https://kubrik.itch.io/nerfthis-000000?style=flat-square&logo=itch.io&logoColor=white&labelColor=000000" height="25"/> </a></h3>
+
+![](https://img.shields.io/badge/Rogue--like-a00d7c?style=) ![](https://img.shields.io/badge/Deck--Builder-0da083?style=) ![](https://img.shields.io/badge/Crafting-849d64?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.7-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![Status](https://img.shields.io/badge/Status-Early_Development-851d10?style=for-the-badges)
+<br>
+Nerf This! is an early-development third-person combat game that combines real-time action with deckbuilding strategy in a roguelike dungeon format.<br>
+Each run drops you into a shifting dungeon filled with hostile encounters, random rewards, and meaningful choices. Cards define your abilities, modify your attacks, and unlock powerful synergies, letting your playstyle evolve with every decision.
+<br clear="left"/>
+<p align="center">
+<img src="https://img.itch.zone/aW1hZ2UvNDUyOTY0Mi8yNjk5NzgzOC5wbmc=/original/is5eSH.png" width="25%"/><img src="https://img.itch.zone/aW1hZ2UvNDUyOTY0Mi8yNjk5NzgzNC5wbmc=/original/4Vruk%2B.png" width="25%"/><img src="https://img.itch.zone/aW1hZ2UvNDUyOTY0Mi8yNjk5NzgzNS5wbmc=/original/%2F%2FgIpQ.png" width="25%"/><img src="https://img.itch.zone/aW1hZ2UvNDUyOTY0Mi8yNjk5NzgzNi5wbmc=/original/G25Zqv.png" width="25%"/>
+</p>
+
+---
+
+<img align="left" width="30%"  height="160" src="https://img.itch.zone/aW1nLzI2OTk2ODcwLnBuZw==/315x250%23c/FyBPmz.png"/>
+<h3><a href="https://github.com/kubrvk/nerfthis">10-) Nerf This!</a><a href="https://kubrik.itch.io/nerfthis"> <img src="https://img.shields.io/badge/itch.io: https://kubrik.itch.io/nerfthis-000000?style=flat-square&logo=itch.io&logoColor=white&labelColor=000000" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Rogue--like-a00d7c?style=) ![](https://img.shields.io/badge/Deck--Builder-0da083?style=) ![](https://img.shields.io/badge/Crafting-849d64?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.7-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![Status](https://img.shields.io/badge/Status-Early_Development-851d10?style=for-the-badges)
 <br>

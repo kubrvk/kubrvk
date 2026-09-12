@@ -198,7 +198,7 @@ Sandbox survival experience in Unreal Engine focused on dragon taming, crafting,
 
 ![](https://img.shields.io/badge/Rogue--like-a00d7c?style=) ![](https://img.shields.io/badge/Deck--Builder-0da083?style=) ![](https://img.shields.io/badge/Crafting-849d64?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.7-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![Status](https://img.shields.io/badge/Status-Early_Development-851d10?style=for-the-badges)
 <br>
-Nerf This! is an early-development third-person combat game that combines real-time action with deckbuilding strategy in a roguelike dungeon format.<br>
+Third-person combat game that combines real-time action with deckbuilding strategy in a roguelike dungeon format.
 Each run drops you into a shifting dungeon filled with hostile encounters, random rewards, and meaningful choices. Cards define your abilities, modify your attacks, and unlock powerful synergies, letting your playstyle evolve with every decision.
 <br clear="left"/>
 <p align="center">
@@ -225,7 +225,7 @@ Each run drops you into a shifting dungeon filled with hostile encounters, rando
 
 ![](https://img.shields.io/badge/Simulation-327028?style=) ![](https://img.shields.io/badge/Ai-0da083?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.7-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![Status](https://img.shields.io/badge/Status-Early_Development-851d10?style=for-the-badges)
 <br>
-Advanced cognitive and mental-health simulation. BioMind's characters possess an internal consciousness strictly grounded in an authentic, real-time biological neuro-simulation. LLM never dictates the character's internal biology; instead, it serves as the cognitive voice and narrator that perceives, reflects, and communicates the organism's live physiological and psychological state.
+Advanced cognitive and mental-health simulation. BioMind's characters possess an internal consciousness, real-time biological neuro-simulation. LLM never dictates the character's internal biology; instead, it serves as the cognitive voice and narrator that perceives, reflects, and communicates the organism's live physiological and psychological state.
 <br clear="left"/>
 <p align="center">
 <img src="https://github.com/kubrvk/BiologicalArtificialMindSimulation/raw/main/Docs/img/3.jpg" width="25%"/><img src="https://github.com/kubrvk/BiologicalArtificialMindSimulation/raw/main/Docs/img/1.jpg" width="25%"/><img src="https://github.com/kubrvk/BiologicalArtificialMindSimulation/raw/main/Docs/img/2.jpg" width="25%"/><img src="https://github.com/kubrvk/BiologicalArtificialMindSimulation/raw/main/Docs/img/6.jpg" width="25%"/>

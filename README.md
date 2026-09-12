@@ -207,27 +207,26 @@ Each run drops you into a shifting dungeon filled with hostile encounters, rando
 
 ---
 
-<img align="left" width="30%"  height="160" src="https://img.itch.zone/aW1nLzI2OTk2ODcwLnBuZw==/315x250%23c/FyBPmz.png"/>
-<h3><a href="https://github.com/kubrvk/nerfthis">10-) Nerf This!</a><a href="https://kubrik.itch.io/nerfthis"> <img src="https://img.shields.io/badge/itch.io: https://kubrik.itch.io/nerfthis-000000?style=flat-square&logo=itch.io&logoColor=white&labelColor=000000" height="25"/> </a></h3>
+<img align="left" width="30%"  height="160" src="https://github.com/kubrvk/cthulhusimulator/blob/main/Docs/img/logo.jpg"/>
+<h3><a href="https://github.com/kubrvk/cthulhusimulator">11-) Chutllu Sim</a><a href="https://kubrik.itch.io/cthulhusim"> <img src="https://img.shields.io/badge/itch.io: https://kubrik.itch.io/cthulhusim-000000?style=flat-square&logo=itch.io&logoColor=white&labelColor=000000" height="25"/> </a></h3>
 
-![](https://img.shields.io/badge/Rogue--like-a00d7c?style=) ![](https://img.shields.io/badge/Deck--Builder-0da083?style=) ![](https://img.shields.io/badge/Crafting-849d64?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.7-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![Status](https://img.shields.io/badge/Status-Early_Development-851d10?style=for-the-badges)
+![](https://img.shields.io/badge/Action-a13636?style=) ![](https://img.shields.io/badge/Rogue--like-a00d7c?style=) ![](https://img.shields.io/badge/Wave--Rush-a17736?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.7-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![Status](https://img.shields.io/badge/Status-Early_Development-851d10?style=for-the-badges)
 <br>
-Nerf This! is an early-development third-person combat game that combines real-time action with deckbuilding strategy in a roguelike dungeon format.<br>
-Each run drops you into a shifting dungeon filled with hostile encounters, random rewards, and meaningful choices. Cards define your abilities, modify your attacks, and unlock powerful synergies, letting your playstyle evolve with every decision.
+Chutllu Sim is a high-octane 3D action roguelike built in Unreal Engine 5. You awaken as an ancient eldritch leviathan rising beneath the skyscrapers of a modern metropolis. Using procedurally animated, physics-driven tentacles, your objective is simple: crush urban infrastructure, grab and devour fleeing populations, harvest their souls, and withstand the full retaliatory might of the military.
 <br clear="left"/>
 <p align="center">
-<img src="https://img.itch.zone/aW1hZ2UvNDUyOTY0Mi8yNjk5NzgzOC5wbmc=/original/is5eSH.png" width="25%"/><img src="https://img.itch.zone/aW1hZ2UvNDUyOTY0Mi8yNjk5NzgzNC5wbmc=/original/4Vruk%2B.png" width="25%"/><img src="https://img.itch.zone/aW1hZ2UvNDUyOTY0Mi8yNjk5NzgzNS5wbmc=/original/%2F%2FgIpQ.png" width="25%"/><img src="https://img.itch.zone/aW1hZ2UvNDUyOTY0Mi8yNjk5NzgzNi5wbmc=/original/G25Zqv.png" width="25%"/>
+<img src="https://github.com/kubrvk/cthulhusimulator/blob/main/Docs/img/11_Combat_Eye_Beam_Laser.jpg" width="25%"/><img src="https://github.com/kubrvk/cthulhusimulator/blob/main/Docs/img/Screenshot 2026-09-12 14-22-46.png" width="25%"/><img src="https://github.com/kubrvk/cthulhusimulator/blob/main/Docs/img/Screenshot 2026-09-12 14-22-57.png" width="25%"/><img src="https://github.com/kubrvk/cthulhusimulator/blob/main/Docs/img/Screenshot 2026-09-12 14-19-32.png" width="25%"/>
 </p>
 
 ---
 
 <img align="left" width="30%"  height="160" src="https://img.itch.zone/aW1nLzI2OTk2ODcwLnBuZw==/315x250%23c/FyBPmz.png"/>
-<h3><a href="https://github.com/kubrvk/nerfthis">10-) Nerf This!</a><a href="https://kubrik.itch.io/nerfthis"> <img src="https://img.shields.io/badge/itch.io: https://kubrik.itch.io/nerfthis-000000?style=flat-square&logo=itch.io&logoColor=white&labelColor=000000" height="25"/> </a></h3>
+<h3><a href="https://github.com/kubrvk/BiologicalArtificialMindSimulation">12-) BioMind Simulation</a><a href="https://kubrik.itch.io/nerfthis"> <img src="https://img.shields.io/badge/itch.io: https://kubrik.itch.io/nerfthis-000000?style=flat-square&logo=itch.io&logoColor=white&labelColor=000000" height="25"/> </a></h3>
 
 ![](https://img.shields.io/badge/Rogue--like-a00d7c?style=) ![](https://img.shields.io/badge/Deck--Builder-0da083?style=) ![](https://img.shields.io/badge/Crafting-849d64?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.7-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![Status](https://img.shields.io/badge/Status-Early_Development-851d10?style=for-the-badges)
 <br>
-Nerf This! is an early-development third-person combat game that combines real-time action with deckbuilding strategy in a roguelike dungeon format.<br>
-Each run drops you into a shifting dungeon filled with hostile encounters, random rewards, and meaningful choices. Cards define your abilities, modify your attacks, and unlock powerful synergies, letting your playstyle evolve with every decision.
+BioMind is an advanced cognitive and mental-health simulation built in Unreal Engine 5.7 (C++).
+Unlike conventional chatbots or unconstrained roleplay agents, BioMind's characters possess an internal consciousness strictly grounded in an authentic, real-time biological neuro-simulation. The Large Language Model (LLM) never dictates the character's internal biology; instead, it serves as the cognitive voice and narrator that perceives, reflects, and communicates the organism's live physiological and psychological state.
 <br clear="left"/>
 <p align="center">
 <img src="https://img.itch.zone/aW1hZ2UvNDUyOTY0Mi8yNjk5NzgzOC5wbmc=/original/is5eSH.png" width="25%"/><img src="https://img.itch.zone/aW1hZ2UvNDUyOTY0Mi8yNjk5NzgzNC5wbmc=/original/4Vruk%2B.png" width="25%"/><img src="https://img.itch.zone/aW1hZ2UvNDUyOTY0Mi8yNjk5NzgzNS5wbmc=/original/%2F%2FgIpQ.png" width="25%"/><img src="https://img.itch.zone/aW1hZ2UvNDUyOTY0Mi8yNjk5NzgzNi5wbmc=/original/G25Zqv.png" width="25%"/>

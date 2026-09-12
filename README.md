@@ -120,7 +120,7 @@ An isometric co-op action RPG. Ascend through 12 god temples, defeating bosses, 
 
 ![](https://img.shields.io/badge/Voxel-275BF5?style=) ![](https://img.shields.io/badge/Co--op-588580?style=) ![](https://img.shields.io/badge/Hunt-E64C4C?style=) ![C++](https://img.shields.io/badge/C++-00599C?style=logo=c%2B%2B&logoColor=white)  ![C++](https://img.shields.io/badge/Unreal_Engine_5.8-0E1128?style=for-the-badges&logo=unrealengine&logoColor=white)  ![C++](https://img.shields.io/badge/Status-Shipped-success?style=for-the-badges) 
 <br>
-Cubiciousflage is a vibrant, multiplayer voxel action game built natively in Unreal Engine 5.8 (C++). Combining high-stakes Prop Hunt hide-and-seek with an in-game Cube Builder and a procedural vertical parkour mode (Climp Tower), Cubiciousflage lets players sculpt, disguise, shoot, and destroy everything down to the individual voxel.
+Multiplayer voxel action game. Combining high-stakes Prop Hunt hide-and-seek with an in-game Cube Builder and a procedural vertical parkour mode (Climp Tower), Cubiciousflage lets players sculpt, disguise, shoot, and destroy everything down to the individual voxel.
 <br clear="left"/>
 <p align="center">
 <img src="https://github.com/kubrvk/Cubiciousflage/blob/main/Docs/img/32.jpg" width="25%"/><img src="https://github.com/kubrvk/Cubiciousflage/blob/main/Docs/img/37.jpg" width="25%"/><img src="https://github.com/kubrvk/Cubiciousflage/blob/main/Docs/img/30.jpg" width="25%"/><img src="https://github.com/kubrvk/Cubiciousflage/blob/main/Docs/img/40.jpg" width="25%"/>
